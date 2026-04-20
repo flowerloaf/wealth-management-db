@@ -1,0 +1,6 @@
+profile_name,target_volatility
+Conservative,5.0
+Moderately Conservative,8.0
+Balanced,12.0
+Growth,18.0
+Aggressive,25.0

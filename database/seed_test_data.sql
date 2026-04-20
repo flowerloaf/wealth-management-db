@@ -18,11 +18,6 @@ INSERT INTO accounts (account_id, client_id, account_type, custodian_name, base_
 (1002, 101, 'IRA', 'Fidelity', 'USD', '2024-03-15', 'Open'),
 (1003, 102, 'Brokerage', 'Vanguard', 'USD', '2023-09-20', 'Open');
 
-INSERT INTO assets (asset_id, symbol, asset_name, asset_class, exchange, currency, sector, industry) VALUES
-(1, 'AAPL', 'Apple Inc.', 'Stock', 'NASDAQ', 'USD', 'Technology', 'Consumer Electronics'),
-(2, 'MSFT', 'Microsoft Corp.', 'Stock', 'NASDAQ', 'USD', 'Technology', 'Software'),
-(3, 'SPY', 'SPDR S&P 500 ETF', 'ETF', 'NYSE Arca', 'USD', 'Fund', 'ETF');
-
 INSERT INTO client_risk_assessments (assessment_id, client_id, risk_profile_id, risk_score, assessment_date, method) VALUES
 (1, 101, 3, 58, '2026-04-10', 'Questionnaire'),
 (2, 102, 4, 72, '2026-04-10', 'Questionnaire');
@@ -32,13 +27,11 @@ INSERT INTO financial_goals (goal_id, client_id, goal_type, target_amount, curre
 (2, 101, 'House Down Payment', 60000.00, 15000.00, '2028-06-01', 'Medium'),
 (3, 102, 'Emergency Fund', 20000.00, 12000.00, '2026-12-01', 'High');
 
-INSERT INTO market_prices (asset_id, price_date, open, high, low, close, adj_close, volume) VALUES
-(1, '2026-04-15', 194.10, 197.20, 193.80, 196.55, 196.55, 55000000),
-(2, '2026-04-15', 421.30, 425.00, 419.90, 424.10, 424.10, 31000000),
-(3, '2026-04-15', 508.20, 510.10, 507.40, 509.55, 509.55, 72000000);
-
-INSERT INTO transactions (txn_id, account_id, asset_id, txn_type, quantity, price_per_unit, fees, trade_date, settle_date) VALUES
-(1, 1001, 1, 'BUY', 10.0000, 190.2500, 4.95, '2026-04-01', '2026-04-03'),
-(2, 1001, 2, 'BUY', 5.0000, 418.1000, 4.95, '2026-04-02', '2026-04-04'),
-(3, 1002, 3, 'BUY', 8.0000, 505.0000, 4.95, '2026-04-05', '2026-04-07'),
-(4, 1003, 1, 'BUY', 12.0000, 192.0000, 4.95, '2026-04-06', '2026-04-08');
+INSERT INTO transactions (
+    txn_id, account_id, symbol, asset_name, asset_class,
+    txn_type, quantity, price_per_unit, fees, trade_date, settle_date
+) VALUES
+(1, 1001, 'AAPL', 'Apple Inc.', 'Stock', 'BUY', 10.0000, 190.2500, 4.95, '2026-04-01', '2026-04-03'),
+(2, 1001, 'MSFT', 'Microsoft Corp.', 'Stock', 'BUY', 5.0000, 418.1000, 4.95, '2026-04-02', '2026-04-04'),
+(3, 1002, 'SPY', 'SPDR S&P 500 ETF', 'ETF', 'BUY', 8.0000, 505.0000, 4.95, '2026-04-05', '2026-04-07'),
+(4, 1003, 'AAPL', 'Apple Inc.', 'Stock', 'BUY', 12.0000, 192.0000, 4.95, '2026-04-06', '2026-04-08');

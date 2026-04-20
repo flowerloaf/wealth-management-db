@@ -29,17 +29,6 @@ CREATE TABLE accounts (
     FOREIGN KEY (client_id) REFERENCES clients(client_id)
 );
 
-CREATE TABLE assets (
-    asset_id INT PRIMARY KEY,
-    symbol VARCHAR(20) UNIQUE NOT NULL,
-    asset_name VARCHAR(120) NOT NULL,
-    asset_class VARCHAR(50) NOT NULL,
-    exchange VARCHAR(50),
-    currency VARCHAR(10) DEFAULT 'USD',
-    sector VARCHAR(80),
-    industry VARCHAR(80)
-);
-
 CREATE TABLE risk_profiles (
     risk_profile_id INT PRIMARY KEY,
     profile_name VARCHAR(50) UNIQUE NOT NULL,
@@ -71,24 +60,12 @@ CREATE TABLE financial_goals (
     FOREIGN KEY (client_id) REFERENCES clients(client_id)
 );
 
-CREATE TABLE market_prices (
-    asset_id INT NOT NULL,
-    price_date DATE NOT NULL,
-    open DECIMAL(18,4),
-    high DECIMAL(18,4),
-    low DECIMAL(18,4),
-    close DECIMAL(18,4) NOT NULL,
-    adj_close DECIMAL(18,4),
-    volume BIGINT,
-    PRIMARY KEY (asset_id, price_date),
-    FOREIGN KEY (asset_id) REFERENCES assets(asset_id),
-    CHECK (high IS NULL OR low IS NULL OR high >= low)
-);
-
 CREATE TABLE transactions (
     txn_id INT PRIMARY KEY,
     account_id INT NOT NULL,
-    asset_id INT NOT NULL,
+    symbol VARCHAR(20) NOT NULL,
+    asset_name VARCHAR(120) NOT NULL,
+    asset_class VARCHAR(50) NOT NULL,
     txn_type VARCHAR(10) NOT NULL CHECK (txn_type IN ('BUY', 'SELL')),
     quantity DECIMAL(18,4) NOT NULL CHECK (quantity > 0),
     price_per_unit DECIMAL(18,4) NOT NULL CHECK (price_per_unit > 0),
@@ -96,14 +73,11 @@ CREATE TABLE transactions (
     trade_date DATE NOT NULL,
     settle_date DATE,
     FOREIGN KEY (account_id) REFERENCES accounts(account_id),
-    FOREIGN KEY (asset_id) REFERENCES assets(asset_id),
     CHECK (settle_date IS NULL OR settle_date >= trade_date)
 );
 
 CREATE INDEX idx_clients_advisor_id ON clients(advisor_id);
 CREATE INDEX idx_accounts_client_id ON accounts(client_id);
 CREATE INDEX idx_transactions_account_id ON transactions(account_id);
-CREATE INDEX idx_transactions_asset_id ON transactions(asset_id);
-CREATE INDEX idx_market_prices_asset_id ON market_prices(asset_id);
 CREATE INDEX idx_goals_client_id ON financial_goals(client_id);
 CREATE INDEX idx_assessments_client_id ON client_risk_assessments(client_id);

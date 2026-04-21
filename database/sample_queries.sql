@@ -23,7 +23,7 @@ WHERE t.symbol = 'NVDA'
   AND t.txn_type = 'BUY'
   AND t.trade_date >= CURRENT_DATE - INTERVAL '3 months';
 
--- During performance review Find advisors who manage more than 5 clients
+-- During performance review, we might want to find advisors who manage more than 5 clients to understand how workload affects performance. 
 
 SELECT a.advisor_id, a.name, a.email, COUNT(*) AS client_count
 FROM advisors a
@@ -32,7 +32,8 @@ JOIN clients c
 GROUP BY a.advisor_id, a.name, a.email
 HAVING COUNT(*) > 5;
 
--- Find the asset(s) with the greatest number of transactions. 
+-- When considering which investments are most popular, we want to find the asset(s) with the greatest number of transactions.
+
 SELECT a.symbol, a.asset_name
 FROM assets a
 JOIN transactions t
@@ -45,7 +46,8 @@ HAVING COUNT(*) >= ALL (
 );
 
 
--- Find each client’s highest-fee transaction. 
+-- To understand where the company is making money, find each client’s highest-fee transaction. 
+
 SELECT c.client_id,
        c.name,
        c.email,

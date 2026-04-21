@@ -1,5 +1,11 @@
 account_type,base_currency
-Brokerage,USD
-IRA,USD
-Roth IRA,USD
-International Brokerage,EUR
+Schwab One Brokerage,USD
+Interactive Brokers Japanese Brokerage,JPY
+The Fidelity Account,USD
+E*TRADE Brokerage,USD
+Vanguard Brokerage,USD
+Robinhood Individual,USD
+Webull Cash Brokerage,USD
+Questrade Cash Account,CAD
+Swissquote Trading Account,EUR
+Saxo Individual Singapore Account,SGD

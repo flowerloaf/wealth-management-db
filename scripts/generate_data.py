@@ -20,10 +20,16 @@ NUM_ASSESSMENTS_PER_CLIENT = 1
 # Account-type lookup table. This matches the decomposed schema:
 # account_info(account_type, base_currency)
 ACCOUNT_INFO_ROWS = [
-    ("Brokerage", "USD"),
-    ("IRA", "USD"),
-    ("Roth IRA", "USD"),
-    ("International Brokerage", "EUR"),
+    ("Schwab One Brokerage", "USD"),
+    ("Interactive Brokers Japanese Brokerage", "JPY"),
+    ("The Fidelity Account", "USD"),
+    ("E*TRADE Brokerage", "USD"),
+    ("Vanguard Brokerage", "USD"),
+    ("Robinhood Individual", "USD"),
+    ("Webull Cash Brokerage", "USD"),
+    ("Questrade Cash Account", "CAD"),
+    ("Swissquote Trading Account", "EUR"),
+    ("Saxo Individual Singapore Account", "SGD")
 ]
 
 # Asset lookup table. PK is symbol.

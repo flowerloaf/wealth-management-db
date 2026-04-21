@@ -1,121 +1,121 @@
 assessment_id,client_id,profile_name,risk_score,assessment_date,method
-1,1001,Growth,61,2024-05-01,Advisor Interview
-2,1002,Balanced,43,2025-05-06,Questionnaire
-3,1003,Conservative,6,2026-02-12,Advisor Interview
-4,1004,Growth,61,2025-09-01,Questionnaire
-5,1005,Conservative,8,2025-12-14,Advisor Interview
-6,1006,Growth,62,2025-07-05,Questionnaire
-7,1007,Growth,73,2024-08-26,Online Form
-8,1008,Aggressive,87,2026-02-07,Questionnaire
-9,1009,Conservative,19,2025-07-01,Questionnaire
-10,1010,Growth,72,2026-01-20,Advisor Interview
-11,1011,Conservative,10,2025-05-12,Questionnaire
-12,1012,Conservative,15,2025-10-20,Online Form
-13,1013,Aggressive,97,2024-06-26,Advisor Interview
-14,1014,Growth,77,2025-08-14,Online Form
-15,1015,Growth,79,2026-02-07,Questionnaire
-16,1016,Aggressive,99,2025-05-18,Online Form
-17,1017,Balanced,48,2024-04-19,Advisor Interview
-18,1018,Balanced,56,2026-03-05,Advisor Interview
-19,1019,Growth,75,2025-08-28,Advisor Interview
-20,1020,Moderately Conservative,39,2025-02-28,Online Form
-21,1021,Growth,79,2025-02-20,Questionnaire
-22,1022,Growth,78,2026-01-18,Online Form
-23,1023,Conservative,12,2025-09-10,Questionnaire
-24,1024,Growth,80,2025-02-26,Questionnaire
-25,1025,Moderately Conservative,33,2026-03-05,Online Form
-26,1026,Conservative,10,2025-04-06,Questionnaire
-27,1027,Moderately Conservative,30,2025-11-01,Questionnaire
-28,1028,Growth,70,2024-12-31,Questionnaire
-29,1029,Conservative,20,2025-11-28,Questionnaire
-30,1030,Balanced,52,2026-02-11,Advisor Interview
-31,1031,Aggressive,88,2025-12-21,Online Form
-32,1032,Balanced,60,2025-06-14,Advisor Interview
-33,1033,Conservative,4,2025-02-24,Questionnaire
-34,1034,Moderately Conservative,36,2024-10-22,Online Form
-35,1035,Moderately Conservative,36,2025-10-30,Online Form
-36,1036,Balanced,58,2026-02-13,Questionnaire
-37,1037,Aggressive,87,2024-06-19,Questionnaire
-38,1038,Moderately Conservative,33,2025-06-30,Online Form
-39,1039,Growth,75,2025-05-21,Online Form
-40,1040,Moderately Conservative,25,2024-10-24,Advisor Interview
-41,1041,Conservative,14,2024-04-22,Online Form
-42,1042,Moderately Conservative,28,2025-10-14,Online Form
-43,1043,Conservative,19,2024-04-24,Advisor Interview
-44,1044,Conservative,18,2025-05-05,Questionnaire
-45,1045,Conservative,7,2025-05-03,Questionnaire
-46,1046,Moderately Conservative,39,2025-01-18,Online Form
-47,1047,Aggressive,95,2024-09-16,Online Form
-48,1048,Moderately Conservative,36,2025-11-27,Advisor Interview
-49,1049,Conservative,15,2025-02-11,Advisor Interview
-50,1050,Aggressive,88,2024-07-05,Advisor Interview
-51,1051,Aggressive,89,2025-02-24,Advisor Interview
-52,1052,Moderately Conservative,34,2025-06-20,Online Form
-53,1053,Growth,69,2024-10-27,Advisor Interview
-54,1054,Balanced,56,2025-05-15,Questionnaire
-55,1055,Growth,76,2025-06-05,Questionnaire
-56,1056,Balanced,55,2025-07-10,Online Form
-57,1057,Balanced,41,2026-04-14,Online Form
-58,1058,Moderately Conservative,32,2025-02-03,Questionnaire
-59,1059,Conservative,11,2024-09-14,Questionnaire
-60,1060,Aggressive,86,2025-05-27,Online Form
-61,1061,Growth,75,2025-05-31,Questionnaire
-62,1062,Aggressive,97,2024-08-27,Online Form
-63,1063,Moderately Conservative,34,2025-06-01,Online Form
-64,1064,Conservative,5,2025-04-07,Questionnaire
-65,1065,Balanced,60,2026-04-11,Online Form
-66,1066,Aggressive,83,2025-06-15,Advisor Interview
-67,1067,Moderately Conservative,35,2025-11-05,Questionnaire
-68,1068,Growth,74,2025-02-04,Advisor Interview
-69,1069,Aggressive,81,2024-07-28,Advisor Interview
-70,1070,Conservative,11,2026-01-10,Advisor Interview
-71,1071,Balanced,44,2024-07-15,Advisor Interview
-72,1072,Balanced,42,2024-10-03,Advisor Interview
-73,1073,Aggressive,85,2025-11-12,Questionnaire
-74,1074,Conservative,20,2026-03-13,Advisor Interview
-75,1075,Balanced,52,2024-07-01,Online Form
-76,1076,Growth,63,2025-04-25,Advisor Interview
-77,1077,Aggressive,84,2025-11-14,Advisor Interview
-78,1078,Aggressive,97,2025-11-25,Online Form
-79,1079,Conservative,4,2025-07-11,Advisor Interview
-80,1080,Conservative,11,2025-09-01,Advisor Interview
-81,1081,Moderately Conservative,32,2024-05-27,Advisor Interview
-82,1082,Conservative,14,2025-01-28,Advisor Interview
-83,1083,Growth,65,2025-07-27,Questionnaire
-84,1084,Aggressive,84,2025-11-27,Online Form
-85,1085,Balanced,59,2025-12-11,Advisor Interview
-86,1086,Conservative,6,2025-03-29,Questionnaire
-87,1087,Growth,66,2025-07-01,Advisor Interview
-88,1088,Growth,79,2024-06-22,Advisor Interview
-89,1089,Growth,80,2024-10-28,Advisor Interview
-90,1090,Aggressive,97,2025-01-15,Questionnaire
-91,1091,Moderately Conservative,26,2025-07-08,Advisor Interview
-92,1092,Growth,70,2025-09-30,Questionnaire
-93,1093,Moderately Conservative,36,2026-02-28,Advisor Interview
-94,1094,Aggressive,89,2025-02-05,Advisor Interview
-95,1095,Conservative,15,2025-08-11,Questionnaire
-96,1096,Growth,80,2024-11-14,Online Form
-97,1097,Moderately Conservative,30,2026-03-24,Online Form
-98,1098,Conservative,20,2024-05-31,Advisor Interview
-99,1099,Growth,70,2025-11-05,Questionnaire
-100,1100,Growth,70,2024-08-25,Advisor Interview
-101,1101,Conservative,11,2025-04-15,Questionnaire
-102,1102,Conservative,14,2024-04-26,Advisor Interview
-103,1103,Conservative,15,2025-12-31,Online Form
-104,1104,Conservative,19,2026-02-28,Advisor Interview
-105,1105,Aggressive,91,2025-05-02,Advisor Interview
-106,1106,Growth,65,2024-09-08,Online Form
-107,1107,Moderately Conservative,34,2025-11-13,Advisor Interview
-108,1108,Growth,61,2025-04-27,Advisor Interview
-109,1109,Moderately Conservative,31,2025-09-11,Advisor Interview
-110,1110,Growth,70,2025-07-12,Questionnaire
-111,1111,Balanced,49,2025-08-24,Questionnaire
-112,1112,Growth,76,2025-01-06,Online Form
-113,1113,Aggressive,95,2025-08-10,Questionnaire
-114,1114,Conservative,8,2026-04-02,Advisor Interview
-115,1115,Aggressive,98,2024-06-21,Advisor Interview
-116,1116,Balanced,43,2024-11-06,Online Form
-117,1117,Moderately Conservative,34,2025-02-04,Questionnaire
-118,1118,Moderately Conservative,36,2025-08-21,Online Form
-119,1119,Moderately Conservative,38,2025-02-09,Online Form
-120,1120,Growth,74,2024-09-12,Online Form
+1,1001,Balanced,56,2025-01-20,Questionnaire
+2,1002,Aggressive,88,2024-07-24,Advisor Interview
+3,1003,Conservative,3,2024-05-01,Questionnaire
+4,1004,Balanced,41,2025-05-06,Questionnaire
+5,1005,Moderately Conservative,37,2026-02-12,Advisor Interview
+6,1006,Balanced,47,2025-09-01,Advisor Interview
+7,1007,Conservative,18,2025-12-14,Questionnaire
+8,1008,Growth,67,2025-07-05,Advisor Interview
+9,1009,Growth,72,2024-08-26,Online Form
+10,1010,Moderately Conservative,23,2026-02-07,Questionnaire
+11,1011,Moderately Conservative,22,2025-07-01,Questionnaire
+12,1012,Growth,78,2026-01-20,Advisor Interview
+13,1013,Growth,79,2025-05-12,Online Form
+14,1014,Moderately Conservative,30,2025-10-20,Advisor Interview
+15,1015,Growth,74,2024-06-26,Questionnaire
+16,1016,Moderately Conservative,29,2025-08-14,Advisor Interview
+17,1017,Aggressive,81,2026-02-07,Advisor Interview
+18,1018,Balanced,58,2025-05-18,Advisor Interview
+19,1019,Aggressive,85,2024-04-19,Questionnaire
+20,1020,Balanced,59,2026-03-05,Advisor Interview
+21,1021,Aggressive,86,2025-08-28,Online Form
+22,1022,Conservative,20,2025-02-28,Questionnaire
+23,1023,Balanced,56,2025-02-20,Advisor Interview
+24,1024,Growth,75,2026-01-18,Advisor Interview
+25,1025,Aggressive,81,2025-09-10,Advisor Interview
+26,1026,Aggressive,88,2025-02-26,Advisor Interview
+27,1027,Balanced,58,2026-03-05,Advisor Interview
+28,1028,Moderately Conservative,25,2025-04-06,Advisor Interview
+29,1029,Growth,61,2025-11-01,Questionnaire
+30,1030,Moderately Conservative,30,2024-12-31,Advisor Interview
+31,1031,Growth,73,2025-11-28,Advisor Interview
+32,1032,Growth,73,2026-02-11,Advisor Interview
+33,1033,Aggressive,89,2025-12-21,Advisor Interview
+34,1034,Conservative,2,2025-06-14,Online Form
+35,1035,Balanced,50,2025-02-24,Advisor Interview
+36,1036,Conservative,1,2024-10-22,Online Form
+37,1037,Aggressive,87,2025-10-30,Online Form
+38,1038,Conservative,6,2026-02-13,Online Form
+39,1039,Aggressive,95,2024-06-19,Advisor Interview
+40,1040,Moderately Conservative,36,2025-06-30,Questionnaire
+41,1041,Growth,77,2025-05-21,Advisor Interview
+42,1042,Moderately Conservative,28,2024-10-24,Online Form
+43,1043,Moderately Conservative,24,2024-04-22,Online Form
+44,1044,Moderately Conservative,32,2025-10-14,Online Form
+45,1045,Aggressive,96,2024-04-24,Online Form
+46,1046,Aggressive,98,2025-05-05,Online Form
+47,1047,Aggressive,87,2025-05-03,Questionnaire
+48,1048,Growth,80,2025-01-18,Questionnaire
+49,1049,Growth,80,2024-09-16,Online Form
+50,1050,Conservative,5,2025-11-27,Advisor Interview
+51,1051,Aggressive,100,2025-02-11,Advisor Interview
+52,1052,Conservative,4,2024-07-05,Online Form
+53,1053,Balanced,46,2025-02-24,Online Form
+54,1054,Conservative,16,2025-06-20,Questionnaire
+55,1055,Moderately Conservative,37,2024-10-27,Advisor Interview
+56,1056,Aggressive,95,2025-05-15,Advisor Interview
+57,1057,Moderately Conservative,22,2025-06-05,Questionnaire
+58,1058,Conservative,16,2025-07-10,Online Form
+59,1059,Balanced,46,2026-04-14,Online Form
+60,1060,Growth,64,2025-02-03,Advisor Interview
+61,1061,Moderately Conservative,21,2024-09-14,Advisor Interview
+62,1062,Growth,61,2025-05-27,Advisor Interview
+63,1063,Aggressive,95,2025-05-31,Advisor Interview
+64,1064,Conservative,14,2024-08-27,Advisor Interview
+65,1065,Conservative,9,2025-06-01,Questionnaire
+66,1066,Aggressive,96,2025-04-07,Questionnaire
+67,1067,Aggressive,86,2026-04-11,Online Form
+68,1068,Aggressive,86,2025-06-15,Advisor Interview
+69,1069,Growth,71,2025-11-05,Advisor Interview
+70,1070,Conservative,11,2025-02-04,Advisor Interview
+71,1071,Conservative,1,2024-07-28,Advisor Interview
+72,1072,Growth,68,2026-01-10,Questionnaire
+73,1073,Balanced,58,2024-07-15,Advisor Interview
+74,1074,Aggressive,86,2024-10-03,Online Form
+75,1075,Aggressive,86,2025-11-12,Advisor Interview
+76,1076,Growth,74,2026-03-13,Advisor Interview
+77,1077,Aggressive,81,2024-07-01,Advisor Interview
+78,1078,Conservative,13,2025-04-25,Online Form
+79,1079,Moderately Conservative,29,2025-11-14,Advisor Interview
+80,1080,Conservative,3,2025-11-25,Online Form
+81,1081,Growth,71,2025-07-11,Advisor Interview
+82,1082,Growth,78,2025-09-01,Questionnaire
+83,1083,Aggressive,82,2024-05-27,Questionnaire
+84,1084,Aggressive,81,2025-01-28,Advisor Interview
+85,1085,Aggressive,89,2025-07-27,Advisor Interview
+86,1086,Aggressive,83,2025-11-27,Advisor Interview
+87,1087,Conservative,14,2025-12-11,Questionnaire
+88,1088,Conservative,5,2025-03-29,Questionnaire
+89,1089,Moderately Conservative,38,2025-07-01,Advisor Interview
+90,1090,Conservative,14,2024-06-22,Questionnaire
+91,1091,Moderately Conservative,30,2024-10-28,Online Form
+92,1092,Conservative,17,2025-01-15,Advisor Interview
+93,1093,Balanced,58,2025-07-08,Advisor Interview
+94,1094,Aggressive,85,2025-09-30,Online Form
+95,1095,Aggressive,89,2026-02-28,Online Form
+96,1096,Balanced,53,2025-02-05,Online Form
+97,1097,Aggressive,95,2025-08-11,Online Form
+98,1098,Conservative,19,2024-11-14,Advisor Interview
+99,1099,Aggressive,83,2026-03-24,Questionnaire
+100,1100,Growth,62,2024-05-31,Online Form
+101,1101,Balanced,52,2025-11-05,Advisor Interview
+102,1102,Conservative,4,2024-08-25,Online Form
+103,1103,Balanced,47,2025-04-15,Questionnaire
+104,1104,Balanced,56,2024-04-26,Advisor Interview
+105,1105,Moderately Conservative,30,2025-12-31,Advisor Interview
+106,1106,Conservative,12,2026-02-28,Online Form
+107,1107,Balanced,47,2025-05-02,Online Form
+108,1108,Aggressive,82,2024-09-08,Advisor Interview
+109,1109,Conservative,7,2025-11-13,Advisor Interview
+110,1110,Moderately Conservative,35,2025-04-27,Questionnaire
+111,1111,Conservative,15,2025-09-11,Advisor Interview
+112,1112,Conservative,11,2025-07-12,Online Form
+113,1113,Moderately Conservative,27,2025-08-24,Online Form
+114,1114,Aggressive,81,2025-01-06,Online Form
+115,1115,Conservative,2,2025-08-10,Questionnaire
+116,1116,Aggressive,100,2026-04-02,Advisor Interview
+117,1117,Moderately Conservative,31,2024-06-21,Questionnaire
+118,1118,Aggressive,100,2024-11-06,Online Form
+119,1119,Moderately Conservative,26,2025-02-04,Questionnaire
+120,1120,Aggressive,97,2025-08-21,Online Form

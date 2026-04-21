@@ -178,8 +178,31 @@ accounts = []
 account_id = 2001
 for client in clients:
     num_accounts = random.randint(MIN_ACCOUNTS_PER_CLIENT, MAX_ACCOUNTS_PER_CLIENT)
-    possible_account_types = [row[0] for row in ACCOUNT_INFO_ROWS]
-    chosen_types = random.sample(possible_account_types, k=min(num_accounts, len(possible_account_types)))
+    
+    usd_account_types = [t for t, c in ACCOUNT_INFO_ROWS if c == "USD"]
+    non_usd_account_types = [t for t, c in ACCOUNT_INFO_ROWS if c != "USD"]
+
+    chosen_types = []
+    available_usd = usd_account_types.copy()
+    available_non_usd = non_usd_account_types.copy()
+
+    # Prevents clients from having multiple of the same account
+    while len(chosen_types) < num_accounts and (available_usd or available_non_usd):
+        # 75% chance to pick a USD account type
+        pick_usd = random.random() < 0.75
+
+        if pick_usd and available_usd:
+            account_type = random.choice(available_usd)
+            available_usd.remove(account_type)
+        elif available_non_usd:
+            account_type = random.choice(available_non_usd)
+            available_non_usd.remove(account_type)
+        else:
+            account_type = random.choice(available_usd)
+            available_usd.remove(account_type)
+
+        chosen_types.append(account_type)
+    
     for account_type in chosen_types:
         dob = pd.to_datetime(client["dob"]).date()
         earliest_open = max(dob + timedelta(days=365 * 18), date(2018, 1, 1))

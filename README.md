@@ -8,10 +8,6 @@
    - `database/seed_test_data.sql`
    - `database/sample_queries.sql`
 
-## Shared DB credentials
-- username: wealth_user
-- password: WealthDemo123!
-
 ## Project structure
 - `database/` SQL setup files
 - `data/` CSV data

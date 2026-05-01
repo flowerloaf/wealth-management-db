@@ -1,239 +1,1259 @@
 account_id,client_id,account_type,opened_date,status
-2001,1001,Interactive Brokers Japanese Brokerage,2024-03-05,Open
-2002,1001,Swissquote Trading Account,2021-08-16,Open
-2003,1001,Questrade Cash Account,2024-10-20,Open
-2004,1002,Interactive Brokers Japanese Brokerage,2018-08-08,Open
-2005,1002,Vanguard Brokerage,2023-09-18,Open
-2006,1002,E*TRADE Brokerage,2018-03-14,Open
-2007,1003,Interactive Brokers Japanese Brokerage,2023-12-21,Open
-2008,1004,Schwab One Brokerage,2018-04-26,Open
-2009,1004,Questrade Cash Account,2018-08-11,Open
-2010,1004,Robinhood Individual,2019-06-26,Closed
-2011,1005,Questrade Cash Account,2020-02-06,Open
-2012,1006,Swissquote Trading Account,2018-08-03,Closed
-2013,1006,Robinhood Individual,2024-11-04,Open
-2014,1007,E*TRADE Brokerage,2025-08-03,Open
-2015,1008,Robinhood Individual,2021-05-25,Open
-2016,1008,Schwab One Brokerage,2021-10-04,Open
-2017,1008,The Fidelity Account,2021-05-15,Open
-2018,1009,The Fidelity Account,2020-08-20,Open
-2019,1009,Robinhood Individual,2021-03-30,Open
-2020,1010,Saxo Individual Singapore Account,2018-12-26,Open
-2021,1010,Vanguard Brokerage,2018-01-18,Open
-2022,1010,Interactive Brokers Japanese Brokerage,2024-01-01,Closed
-2023,1011,Vanguard Brokerage,2021-06-30,Open
-2024,1011,Interactive Brokers Japanese Brokerage,2025-01-07,Open
-2025,1012,Schwab One Brokerage,2018-05-19,Closed
-2026,1012,E*TRADE Brokerage,2025-01-24,Open
-2027,1013,Vanguard Brokerage,2020-12-24,Closed
-2028,1013,Schwab One Brokerage,2022-03-10,Open
-2029,1014,Robinhood Individual,2020-05-31,Open
-2030,1015,Questrade Cash Account,2024-07-07,Open
-2031,1016,The Fidelity Account,2023-01-20,Open
-2032,1016,Interactive Brokers Japanese Brokerage,2020-05-06,Closed
-2033,1017,Swissquote Trading Account,2025-09-19,Closed
-2034,1018,Webull Cash Brokerage,2021-03-06,Open
-2035,1018,Saxo Individual Singapore Account,2024-11-05,Open
-2036,1019,Schwab One Brokerage,2018-04-04,Open
-2037,1019,Webull Cash Brokerage,2019-04-21,Open
-2038,1020,Vanguard Brokerage,2019-10-31,Open
-2039,1021,Interactive Brokers Japanese Brokerage,2024-03-21,Open
-2040,1022,Webull Cash Brokerage,2024-08-20,Open
-2041,1023,Robinhood Individual,2025-01-28,Open
-2042,1023,Webull Cash Brokerage,2020-06-16,Open
-2043,1024,Robinhood Individual,2023-04-13,Open
-2044,1024,E*TRADE Brokerage,2020-06-25,Open
-2045,1025,The Fidelity Account,2025-05-22,Open
-2046,1026,Schwab One Brokerage,2026-01-15,Open
-2047,1026,Webull Cash Brokerage,2025-03-22,Open
-2048,1027,E*TRADE Brokerage,2024-01-07,Open
-2049,1027,Vanguard Brokerage,2026-01-18,Open
-2050,1027,Questrade Cash Account,2019-10-31,Open
-2051,1028,Swissquote Trading Account,2025-04-15,Open
-2052,1028,Webull Cash Brokerage,2019-03-07,Open
-2053,1029,The Fidelity Account,2018-05-08,Open
-2054,1029,Schwab One Brokerage,2022-10-09,Open
-2055,1029,Vanguard Brokerage,2021-04-13,Open
-2056,1030,Webull Cash Brokerage,2022-07-24,Open
-2057,1030,E*TRADE Brokerage,2018-09-16,Open
-2058,1030,Vanguard Brokerage,2019-10-01,Closed
-2059,1031,E*TRADE Brokerage,2024-03-05,Open
-2060,1031,Swissquote Trading Account,2024-01-18,Closed
-2061,1032,Robinhood Individual,2019-10-07,Open
-2062,1032,Schwab One Brokerage,2025-07-17,Open
-2063,1032,Questrade Cash Account,2025-02-03,Open
-2064,1033,E*TRADE Brokerage,2019-03-10,Open
-2065,1033,Schwab One Brokerage,2019-07-14,Open
-2066,1034,Schwab One Brokerage,2023-02-20,Open
-2067,1034,Webull Cash Brokerage,2020-02-08,Open
-2068,1034,Saxo Individual Singapore Account,2018-12-15,Open
-2069,1035,Interactive Brokers Japanese Brokerage,2023-08-04,Open
-2070,1036,Saxo Individual Singapore Account,2022-09-22,Open
-2071,1036,Swissquote Trading Account,2018-06-15,Open
-2072,1036,Questrade Cash Account,2024-04-03,Closed
-2073,1037,Questrade Cash Account,2026-03-31,Open
-2074,1038,The Fidelity Account,2022-07-28,Closed
-2075,1038,E*TRADE Brokerage,2023-05-16,Open
-2076,1039,Swissquote Trading Account,2018-08-11,Closed
-2077,1039,Robinhood Individual,2023-08-06,Open
-2078,1040,E*TRADE Brokerage,2020-02-02,Open
-2079,1041,Swissquote Trading Account,2019-08-24,Closed
-2080,1041,Robinhood Individual,2022-11-02,Open
-2081,1041,E*TRADE Brokerage,2025-12-04,Closed
-2082,1042,Schwab One Brokerage,2020-12-22,Open
-2083,1042,The Fidelity Account,2023-08-05,Closed
-2084,1042,Vanguard Brokerage,2019-12-15,Open
-2085,1043,Swissquote Trading Account,2020-05-17,Open
-2086,1043,Schwab One Brokerage,2018-08-01,Closed
-2087,1043,Vanguard Brokerage,2019-08-12,Open
-2088,1044,Robinhood Individual,2022-01-17,Closed
-2089,1044,Vanguard Brokerage,2020-09-25,Open
-2090,1045,Vanguard Brokerage,2023-06-29,Closed
-2091,1045,Schwab One Brokerage,2023-10-11,Open
-2092,1045,E*TRADE Brokerage,2019-04-09,Closed
-2093,1046,The Fidelity Account,2023-12-18,Open
-2094,1046,E*TRADE Brokerage,2025-04-12,Open
-2095,1047,Robinhood Individual,2025-12-26,Open
-2096,1047,The Fidelity Account,2019-05-29,Open
-2097,1047,E*TRADE Brokerage,2020-08-10,Open
-2098,1048,Vanguard Brokerage,2024-07-17,Open
-2099,1049,Webull Cash Brokerage,2023-12-07,Closed
-2100,1049,Vanguard Brokerage,2023-05-04,Closed
-2101,1050,Webull Cash Brokerage,2020-04-21,Open
-2102,1051,Questrade Cash Account,2020-12-29,Open
-2103,1052,Schwab One Brokerage,2023-08-30,Open
-2104,1052,The Fidelity Account,2020-10-05,Closed
-2105,1052,Webull Cash Brokerage,2021-12-31,Closed
-2106,1053,The Fidelity Account,2021-09-16,Open
-2107,1053,Robinhood Individual,2024-06-14,Closed
-2108,1053,E*TRADE Brokerage,2022-01-21,Open
-2109,1054,Webull Cash Brokerage,2018-11-28,Open
-2110,1054,E*TRADE Brokerage,2023-05-18,Open
-2111,1055,The Fidelity Account,2018-09-07,Closed
-2112,1055,E*TRADE Brokerage,2020-05-03,Closed
-2113,1055,Schwab One Brokerage,2024-11-19,Open
-2114,1056,Schwab One Brokerage,2025-06-04,Closed
-2115,1056,Robinhood Individual,2019-08-21,Closed
-2116,1056,The Fidelity Account,2024-02-10,Open
-2117,1057,Vanguard Brokerage,2023-03-22,Open
-2118,1057,Saxo Individual Singapore Account,2024-01-22,Closed
-2119,1058,Vanguard Brokerage,2025-06-06,Open
-2120,1059,Webull Cash Brokerage,2025-01-28,Closed
-2121,1059,Questrade Cash Account,2023-04-06,Open
-2122,1060,Vanguard Brokerage,2024-10-08,Open
-2123,1060,Schwab One Brokerage,2022-10-28,Closed
-2124,1060,Webull Cash Brokerage,2024-05-28,Open
-2125,1061,E*TRADE Brokerage,2019-10-10,Open
-2126,1062,Vanguard Brokerage,2018-04-22,Open
-2127,1062,Robinhood Individual,2020-03-03,Open
-2128,1063,Robinhood Individual,2025-06-12,Open
-2129,1063,E*TRADE Brokerage,2022-06-30,Open
-2130,1064,Schwab One Brokerage,2023-06-13,Open
-2131,1064,Questrade Cash Account,2019-03-29,Open
-2132,1064,Saxo Individual Singapore Account,2021-04-08,Open
-2133,1065,Robinhood Individual,2025-06-04,Open
-2134,1065,Saxo Individual Singapore Account,2022-11-29,Open
-2135,1066,Webull Cash Brokerage,2025-02-20,Open
-2136,1067,Interactive Brokers Japanese Brokerage,2019-02-12,Open
-2137,1068,Vanguard Brokerage,2022-03-05,Open
-2138,1068,The Fidelity Account,2018-10-03,Open
-2139,1069,E*TRADE Brokerage,2021-01-11,Open
-2140,1070,Swissquote Trading Account,2018-02-02,Open
-2141,1070,Webull Cash Brokerage,2019-12-28,Open
-2142,1070,Robinhood Individual,2026-01-11,Closed
-2143,1071,E*TRADE Brokerage,2026-03-06,Open
-2144,1071,Robinhood Individual,2023-09-13,Closed
-2145,1072,Webull Cash Brokerage,2024-05-08,Open
-2146,1073,Saxo Individual Singapore Account,2019-03-04,Open
-2147,1073,Webull Cash Brokerage,2019-04-30,Open
-2148,1073,E*TRADE Brokerage,2022-09-19,Open
-2149,1074,Vanguard Brokerage,2022-10-24,Open
-2150,1074,Robinhood Individual,2025-04-17,Open
-2151,1075,Questrade Cash Account,2019-03-21,Open
-2152,1075,E*TRADE Brokerage,2024-02-05,Open
-2153,1076,Swissquote Trading Account,2025-10-27,Open
-2154,1076,Robinhood Individual,2018-05-03,Open
-2155,1077,Vanguard Brokerage,2024-05-05,Open
-2156,1078,Webull Cash Brokerage,2019-12-06,Closed
-2157,1078,Schwab One Brokerage,2020-03-15,Open
-2158,1078,E*TRADE Brokerage,2019-12-13,Open
-2159,1079,Vanguard Brokerage,2023-07-27,Open
-2160,1079,E*TRADE Brokerage,2022-04-25,Closed
-2161,1079,Robinhood Individual,2024-08-04,Open
-2162,1080,Schwab One Brokerage,2021-03-26,Open
-2163,1080,Vanguard Brokerage,2025-08-24,Open
-2164,1081,Vanguard Brokerage,2025-05-05,Open
-2165,1082,Robinhood Individual,2018-05-02,Open
-2166,1082,Schwab One Brokerage,2023-05-27,Open
-2167,1082,Swissquote Trading Account,2018-11-11,Open
-2168,1083,Robinhood Individual,2026-01-24,Open
-2169,1083,Schwab One Brokerage,2023-04-12,Open
-2170,1084,Saxo Individual Singapore Account,2020-04-11,Closed
-2171,1084,Schwab One Brokerage,2024-03-06,Closed
-2172,1084,Robinhood Individual,2022-10-27,Open
-2173,1085,Swissquote Trading Account,2022-10-01,Closed
-2174,1086,Saxo Individual Singapore Account,2021-02-19,Closed
-2175,1087,Webull Cash Brokerage,2021-02-25,Open
-2176,1088,Robinhood Individual,2022-11-23,Open
-2177,1089,Interactive Brokers Japanese Brokerage,2025-06-25,Closed
-2178,1090,Robinhood Individual,2018-08-25,Open
-2179,1090,Webull Cash Brokerage,2020-02-05,Closed
-2180,1090,Vanguard Brokerage,2026-02-06,Open
-2181,1091,Robinhood Individual,2019-11-10,Open
-2182,1091,Interactive Brokers Japanese Brokerage,2021-05-19,Open
-2183,1091,Questrade Cash Account,2024-10-22,Open
-2184,1092,Robinhood Individual,2022-03-08,Open
-2185,1093,Vanguard Brokerage,2024-08-08,Closed
-2186,1094,E*TRADE Brokerage,2025-05-22,Open
-2187,1094,Robinhood Individual,2018-01-21,Open
-2188,1095,Questrade Cash Account,2025-09-05,Open
-2189,1095,Robinhood Individual,2023-03-28,Open
-2190,1096,Interactive Brokers Japanese Brokerage,2019-12-01,Open
-2191,1096,E*TRADE Brokerage,2022-04-15,Closed
-2192,1097,E*TRADE Brokerage,2020-05-04,Closed
-2193,1098,Vanguard Brokerage,2019-04-03,Open
-2194,1098,Webull Cash Brokerage,2019-04-24,Closed
-2195,1099,E*TRADE Brokerage,2023-01-06,Open
-2196,1099,The Fidelity Account,2024-10-21,Open
-2197,1099,Interactive Brokers Japanese Brokerage,2023-07-05,Open
-2198,1100,Vanguard Brokerage,2021-06-15,Closed
-2199,1100,Questrade Cash Account,2020-10-01,Closed
-2200,1101,Vanguard Brokerage,2018-12-11,Open
-2201,1102,The Fidelity Account,2023-08-17,Open
-2202,1102,Robinhood Individual,2021-12-28,Closed
-2203,1103,Schwab One Brokerage,2024-08-17,Open
-2204,1103,Vanguard Brokerage,2024-11-10,Closed
-2205,1103,Webull Cash Brokerage,2023-11-17,Closed
-2206,1104,E*TRADE Brokerage,2020-01-12,Closed
-2207,1105,Schwab One Brokerage,2022-02-22,Closed
-2208,1105,Webull Cash Brokerage,2024-05-16,Closed
-2209,1105,Vanguard Brokerage,2022-03-06,Open
-2210,1106,Questrade Cash Account,2022-04-09,Open
-2211,1107,Robinhood Individual,2025-06-02,Open
-2212,1107,The Fidelity Account,2019-03-23,Closed
-2213,1108,The Fidelity Account,2019-05-22,Closed
-2214,1109,Webull Cash Brokerage,2025-09-07,Closed
-2215,1109,Vanguard Brokerage,2022-04-21,Open
-2216,1109,Questrade Cash Account,2021-05-18,Closed
-2217,1110,Questrade Cash Account,2026-01-27,Open
-2218,1111,Saxo Individual Singapore Account,2023-04-24,Open
-2219,1111,Robinhood Individual,2025-04-26,Open
-2220,1112,Robinhood Individual,2024-01-24,Open
-2221,1112,Vanguard Brokerage,2024-11-03,Closed
-2222,1113,E*TRADE Brokerage,2025-11-21,Open
-2223,1113,Webull Cash Brokerage,2019-10-21,Open
-2224,1113,Vanguard Brokerage,2023-01-20,Closed
-2225,1114,Saxo Individual Singapore Account,2021-12-05,Open
-2226,1115,Webull Cash Brokerage,2022-01-05,Closed
-2227,1115,Saxo Individual Singapore Account,2019-10-30,Open
-2228,1116,Questrade Cash Account,2021-06-03,Open
-2229,1116,Robinhood Individual,2019-03-11,Open
-2230,1117,Vanguard Brokerage,2022-11-08,Closed
-2231,1117,The Fidelity Account,2024-05-23,Open
-2232,1118,E*TRADE Brokerage,2023-03-11,Open
-2233,1119,Webull Cash Brokerage,2022-04-03,Open
-2234,1119,E*TRADE Brokerage,2019-05-26,Closed
-2235,1119,Saxo Individual Singapore Account,2023-09-17,Open
-2236,1120,Webull Cash Brokerage,2025-09-06,Closed
-2237,1120,E*TRADE Brokerage,2022-12-20,Open
-2238,1120,Interactive Brokers Japanese Brokerage,2018-07-29,Open
+2001,1001,Schwab One Brokerage,2022-07-12,Closed
+2002,1001,Swissquote Trading Account,2019-07-23,Open
+2003,1001,Webull Cash Brokerage,2019-08-07,Open
+2004,1002,Swissquote Trading Account,2025-03-17,Open
+2005,1002,E*TRADE Brokerage,2024-01-28,Open
+2006,1003,E*TRADE Brokerage,2023-07-28,Open
+2007,1003,Webull Cash Brokerage,2021-11-30,Open
+2008,1003,The Fidelity Account,2020-07-25,Closed
+2009,1004,Robinhood Individual,2024-08-06,Open
+2010,1004,The Fidelity Account,2025-03-10,Closed
+2011,1005,Swissquote Trading Account,2022-04-10,Open
+2012,1005,Webull Cash Brokerage,2025-12-30,Open
+2013,1006,E*TRADE Brokerage,2022-06-02,Closed
+2014,1006,Vanguard Brokerage,2025-08-19,Closed
+2015,1006,The Fidelity Account,2018-03-10,Open
+2016,1007,Schwab One Brokerage,2019-11-19,Closed
+2017,1007,E*TRADE Brokerage,2018-11-28,Closed
+2018,1007,Robinhood Individual,2020-01-05,Closed
+2019,1008,Webull Cash Brokerage,2024-10-07,Open
+2020,1008,Schwab One Brokerage,2023-11-05,Open
+2021,1009,Questrade Cash Account,2024-12-01,Open
+2022,1009,The Fidelity Account,2020-04-17,Open
+2023,1010,Vanguard Brokerage,2024-01-16,Closed
+2024,1010,Schwab One Brokerage,2019-02-13,Closed
+2025,1011,Vanguard Brokerage,2023-01-30,Open
+2026,1011,The Fidelity Account,2023-10-22,Open
+2027,1012,Questrade Cash Account,2024-06-12,Closed
+2028,1012,Webull Cash Brokerage,2022-07-09,Open
+2029,1013,Interactive Brokers Japanese Brokerage,2020-05-31,Open
+2030,1013,Vanguard Brokerage,2023-04-29,Closed
+2031,1014,Saxo Individual Singapore Account,2026-04-10,Open
+2032,1014,Swissquote Trading Account,2020-06-05,Open
+2033,1014,Questrade Cash Account,2019-09-15,Open
+2034,1015,E*TRADE Brokerage,2019-10-20,Open
+2035,1015,Vanguard Brokerage,2026-01-28,Open
+2036,1015,Robinhood Individual,2024-11-11,Open
+2037,1016,Webull Cash Brokerage,2019-08-15,Open
+2038,1016,The Fidelity Account,2022-05-20,Closed
+2039,1017,Vanguard Brokerage,2022-11-22,Open
+2040,1017,The Fidelity Account,2025-05-11,Closed
+2041,1017,Saxo Individual Singapore Account,2019-01-07,Closed
+2042,1018,Swissquote Trading Account,2024-01-25,Open
+2043,1018,Questrade Cash Account,2024-09-19,Closed
+2044,1019,Vanguard Brokerage,2024-09-17,Closed
+2045,1019,E*TRADE Brokerage,2018-10-01,Open
+2046,1020,Interactive Brokers Japanese Brokerage,2023-12-04,Open
+2047,1020,Saxo Individual Singapore Account,2021-10-15,Closed
+2048,1020,Schwab One Brokerage,2021-11-19,Open
+2049,1021,E*TRADE Brokerage,2025-04-26,Closed
+2050,1021,The Fidelity Account,2019-01-12,Open
+2051,1021,Robinhood Individual,2018-05-28,Closed
+2052,1022,Saxo Individual Singapore Account,2026-02-15,Open
+2053,1022,Robinhood Individual,2020-01-04,Open
+2054,1022,E*TRADE Brokerage,2018-10-06,Open
+2055,1023,Questrade Cash Account,2023-08-27,Open
+2056,1023,Saxo Individual Singapore Account,2022-02-07,Open
+2057,1024,Schwab One Brokerage,2020-08-23,Closed
+2058,1024,E*TRADE Brokerage,2023-12-28,Open
+2059,1025,Robinhood Individual,2026-04-29,Open
+2060,1025,Interactive Brokers Japanese Brokerage,2018-04-30,Open
+2061,1025,Questrade Cash Account,2021-05-22,Open
+2062,1026,Vanguard Brokerage,2018-04-16,Open
+2063,1026,The Fidelity Account,2018-08-22,Open
+2064,1026,E*TRADE Brokerage,2018-09-13,Open
+2065,1027,Vanguard Brokerage,2024-03-31,Open
+2066,1027,Schwab One Brokerage,2024-05-05,Open
+2067,1028,Interactive Brokers Japanese Brokerage,2022-02-19,Open
+2068,1028,E*TRADE Brokerage,2026-01-04,Closed
+2069,1028,Robinhood Individual,2026-04-04,Open
+2070,1029,Robinhood Individual,2018-10-17,Open
+2071,1029,Saxo Individual Singapore Account,2026-01-01,Open
+2072,1029,Webull Cash Brokerage,2025-02-24,Open
+2073,1030,Vanguard Brokerage,2024-06-27,Closed
+2074,1030,Robinhood Individual,2024-01-01,Open
+2075,1031,E*TRADE Brokerage,2022-05-15,Open
+2076,1031,The Fidelity Account,2018-01-26,Open
+2077,1032,Robinhood Individual,2025-08-04,Open
+2078,1032,E*TRADE Brokerage,2019-09-27,Open
+2079,1032,The Fidelity Account,2018-03-22,Closed
+2080,1033,The Fidelity Account,2024-10-02,Open
+2081,1033,Robinhood Individual,2022-11-18,Open
+2082,1033,Schwab One Brokerage,2020-10-14,Open
+2083,1034,E*TRADE Brokerage,2021-06-16,Closed
+2084,1034,Vanguard Brokerage,2022-07-31,Open
+2085,1034,Robinhood Individual,2024-12-22,Open
+2086,1035,E*TRADE Brokerage,2022-05-13,Open
+2087,1035,The Fidelity Account,2018-02-09,Open
+2088,1035,Vanguard Brokerage,2023-09-26,Closed
+2089,1036,Robinhood Individual,2020-10-12,Open
+2090,1036,Schwab One Brokerage,2023-04-22,Open
+2091,1036,Swissquote Trading Account,2022-02-21,Open
+2092,1037,Robinhood Individual,2024-01-28,Open
+2093,1037,Schwab One Brokerage,2024-11-08,Closed
+2094,1037,Swissquote Trading Account,2022-12-19,Open
+2095,1038,Vanguard Brokerage,2025-12-31,Open
+2096,1038,E*TRADE Brokerage,2025-07-24,Open
+2097,1039,Saxo Individual Singapore Account,2025-08-20,Open
+2098,1039,Schwab One Brokerage,2025-05-07,Open
+2099,1039,The Fidelity Account,2023-08-31,Open
+2100,1040,The Fidelity Account,2021-04-06,Closed
+2101,1040,Robinhood Individual,2023-01-29,Closed
+2102,1040,E*TRADE Brokerage,2020-11-17,Closed
+2103,1041,Saxo Individual Singapore Account,2025-05-18,Open
+2104,1041,Robinhood Individual,2018-08-20,Open
+2105,1041,Schwab One Brokerage,2023-01-11,Open
+2106,1042,The Fidelity Account,2024-09-25,Open
+2107,1042,E*TRADE Brokerage,2025-04-03,Closed
+2108,1043,Vanguard Brokerage,2024-05-11,Closed
+2109,1043,The Fidelity Account,2024-01-03,Open
+2110,1043,Robinhood Individual,2021-06-17,Open
+2111,1044,Questrade Cash Account,2020-06-08,Open
+2112,1044,Robinhood Individual,2019-12-05,Open
+2113,1044,The Fidelity Account,2022-05-31,Open
+2114,1045,E*TRADE Brokerage,2020-11-09,Open
+2115,1045,Webull Cash Brokerage,2018-03-22,Closed
+2116,1046,E*TRADE Brokerage,2019-02-28,Closed
+2117,1046,Vanguard Brokerage,2026-04-21,Closed
+2118,1047,Vanguard Brokerage,2019-08-16,Open
+2119,1047,Webull Cash Brokerage,2024-10-15,Open
+2120,1048,Webull Cash Brokerage,2019-04-25,Open
+2121,1048,Interactive Brokers Japanese Brokerage,2019-10-18,Open
+2122,1049,Webull Cash Brokerage,2023-01-06,Open
+2123,1049,E*TRADE Brokerage,2019-03-26,Closed
+2124,1050,Saxo Individual Singapore Account,2020-01-01,Open
+2125,1050,E*TRADE Brokerage,2020-04-16,Open
+2126,1050,Schwab One Brokerage,2020-10-24,Closed
+2127,1051,Vanguard Brokerage,2018-08-22,Open
+2128,1051,Interactive Brokers Japanese Brokerage,2020-02-16,Open
+2129,1051,E*TRADE Brokerage,2018-04-21,Open
+2130,1052,Interactive Brokers Japanese Brokerage,2024-03-19,Open
+2131,1052,Robinhood Individual,2024-02-01,Open
+2132,1052,Schwab One Brokerage,2019-01-31,Closed
+2133,1053,Questrade Cash Account,2022-06-19,Closed
+2134,1053,The Fidelity Account,2025-11-01,Open
+2135,1053,Swissquote Trading Account,2018-05-11,Open
+2136,1054,E*TRADE Brokerage,2021-01-20,Closed
+2137,1054,Webull Cash Brokerage,2018-03-06,Open
+2138,1055,Interactive Brokers Japanese Brokerage,2024-08-06,Open
+2139,1055,Schwab One Brokerage,2019-12-24,Closed
+2140,1056,E*TRADE Brokerage,2025-10-17,Closed
+2141,1056,Robinhood Individual,2021-07-28,Open
+2142,1056,Questrade Cash Account,2026-01-18,Closed
+2143,1057,Questrade Cash Account,2024-03-12,Closed
+2144,1057,Swissquote Trading Account,2022-04-29,Open
+2145,1058,Swissquote Trading Account,2018-10-19,Open
+2146,1058,Robinhood Individual,2024-03-20,Closed
+2147,1058,Vanguard Brokerage,2021-07-21,Closed
+2148,1059,Robinhood Individual,2025-01-19,Closed
+2149,1059,E*TRADE Brokerage,2025-10-26,Open
+2150,1059,Questrade Cash Account,2025-11-11,Closed
+2151,1060,Vanguard Brokerage,2025-04-15,Closed
+2152,1060,Robinhood Individual,2018-06-18,Open
+2153,1061,Questrade Cash Account,2025-05-15,Closed
+2154,1061,Robinhood Individual,2021-01-04,Open
+2155,1061,Schwab One Brokerage,2021-04-25,Closed
+2156,1062,Vanguard Brokerage,2023-01-22,Open
+2157,1062,Questrade Cash Account,2024-10-24,Closed
+2158,1063,Webull Cash Brokerage,2024-05-09,Open
+2159,1063,Schwab One Brokerage,2021-03-21,Closed
+2160,1063,Saxo Individual Singapore Account,2023-09-15,Open
+2161,1064,Webull Cash Brokerage,2018-08-10,Open
+2162,1064,Questrade Cash Account,2025-10-31,Closed
+2163,1065,Interactive Brokers Japanese Brokerage,2019-10-10,Open
+2164,1065,Webull Cash Brokerage,2025-12-08,Open
+2165,1066,Schwab One Brokerage,2024-05-24,Closed
+2166,1066,Vanguard Brokerage,2020-02-12,Open
+2167,1067,Robinhood Individual,2020-11-01,Open
+2168,1067,The Fidelity Account,2018-06-08,Open
+2169,1068,Vanguard Brokerage,2021-07-31,Closed
+2170,1068,The Fidelity Account,2022-08-01,Open
+2171,1069,E*TRADE Brokerage,2021-09-26,Closed
+2172,1069,Schwab One Brokerage,2019-01-25,Open
+2173,1070,E*TRADE Brokerage,2023-03-21,Closed
+2174,1070,Swissquote Trading Account,2022-01-16,Open
+2175,1071,Questrade Cash Account,2024-05-29,Open
+2176,1071,Swissquote Trading Account,2023-06-13,Open
+2177,1071,Vanguard Brokerage,2019-05-20,Open
+2178,1072,Saxo Individual Singapore Account,2019-10-04,Open
+2179,1072,Robinhood Individual,2022-05-15,Closed
+2180,1073,Questrade Cash Account,2020-03-13,Open
+2181,1073,E*TRADE Brokerage,2024-03-30,Open
+2182,1073,The Fidelity Account,2018-05-03,Open
+2183,1074,Vanguard Brokerage,2020-01-07,Open
+2184,1074,E*TRADE Brokerage,2025-06-19,Open
+2185,1075,Vanguard Brokerage,2018-01-16,Open
+2186,1075,The Fidelity Account,2022-05-25,Open
+2187,1075,Swissquote Trading Account,2021-09-23,Open
+2188,1076,Swissquote Trading Account,2019-08-14,Open
+2189,1076,E*TRADE Brokerage,2020-06-26,Open
+2190,1076,Questrade Cash Account,2021-12-21,Open
+2191,1077,Swissquote Trading Account,2023-07-23,Open
+2192,1077,Vanguard Brokerage,2022-08-01,Closed
+2193,1077,Webull Cash Brokerage,2025-06-11,Open
+2194,1078,Webull Cash Brokerage,2019-02-20,Open
+2195,1078,Interactive Brokers Japanese Brokerage,2018-05-21,Open
+2196,1078,Vanguard Brokerage,2019-12-13,Open
+2197,1079,Vanguard Brokerage,2021-02-12,Closed
+2198,1079,Swissquote Trading Account,2024-01-11,Open
+2199,1080,Schwab One Brokerage,2018-06-12,Open
+2200,1080,Robinhood Individual,2023-07-23,Open
+2201,1081,Questrade Cash Account,2021-10-05,Closed
+2202,1081,E*TRADE Brokerage,2023-10-13,Open
+2203,1082,Vanguard Brokerage,2023-01-17,Open
+2204,1082,E*TRADE Brokerage,2018-05-25,Closed
+2205,1082,Robinhood Individual,2021-01-25,Closed
+2206,1083,Interactive Brokers Japanese Brokerage,2022-09-14,Open
+2207,1083,Swissquote Trading Account,2023-11-23,Open
+2208,1084,Schwab One Brokerage,2024-09-09,Open
+2209,1084,Saxo Individual Singapore Account,2020-05-19,Open
+2210,1084,E*TRADE Brokerage,2019-07-07,Open
+2211,1085,Questrade Cash Account,2018-02-17,Open
+2212,1085,Robinhood Individual,2026-04-16,Open
+2213,1086,The Fidelity Account,2026-04-06,Open
+2214,1086,Interactive Brokers Japanese Brokerage,2022-11-09,Open
+2215,1087,The Fidelity Account,2019-05-19,Open
+2216,1087,Schwab One Brokerage,2024-04-19,Open
+2217,1088,Questrade Cash Account,2023-11-19,Open
+2218,1088,Schwab One Brokerage,2023-03-13,Closed
+2219,1088,The Fidelity Account,2023-03-20,Open
+2220,1089,E*TRADE Brokerage,2024-11-07,Closed
+2221,1089,Schwab One Brokerage,2023-08-16,Open
+2222,1090,Webull Cash Brokerage,2021-02-17,Open
+2223,1090,Vanguard Brokerage,2024-07-02,Open
+2224,1091,Saxo Individual Singapore Account,2020-06-20,Open
+2225,1091,Vanguard Brokerage,2022-08-09,Open
+2226,1091,Robinhood Individual,2023-01-14,Open
+2227,1092,E*TRADE Brokerage,2024-02-14,Open
+2228,1092,Webull Cash Brokerage,2024-11-01,Closed
+2229,1093,Robinhood Individual,2023-08-26,Closed
+2230,1093,Schwab One Brokerage,2026-03-04,Closed
+2231,1093,Questrade Cash Account,2021-10-19,Open
+2232,1094,Vanguard Brokerage,2025-05-28,Open
+2233,1094,Schwab One Brokerage,2020-06-18,Open
+2234,1094,Robinhood Individual,2022-06-17,Open
+2235,1095,Schwab One Brokerage,2021-01-18,Open
+2236,1095,The Fidelity Account,2021-03-14,Open
+2237,1095,Robinhood Individual,2025-12-05,Open
+2238,1096,Webull Cash Brokerage,2020-01-26,Open
+2239,1096,Saxo Individual Singapore Account,2020-10-01,Open
+2240,1097,Robinhood Individual,2018-11-10,Open
+2241,1097,The Fidelity Account,2018-03-06,Open
+2242,1097,E*TRADE Brokerage,2022-03-03,Open
+2243,1098,Questrade Cash Account,2020-07-30,Open
+2244,1098,Saxo Individual Singapore Account,2023-02-26,Open
+2245,1099,Webull Cash Brokerage,2026-02-13,Open
+2246,1099,Swissquote Trading Account,2019-08-15,Open
+2247,1100,Saxo Individual Singapore Account,2022-11-24,Open
+2248,1100,Webull Cash Brokerage,2022-12-17,Open
+2249,1101,Vanguard Brokerage,2019-07-17,Open
+2250,1101,E*TRADE Brokerage,2024-07-01,Open
+2251,1102,Questrade Cash Account,2025-06-18,Open
+2252,1102,Robinhood Individual,2022-12-11,Open
+2253,1103,Vanguard Brokerage,2019-03-06,Open
+2254,1103,Robinhood Individual,2026-01-27,Open
+2255,1103,The Fidelity Account,2021-05-14,Closed
+2256,1104,Webull Cash Brokerage,2022-08-31,Open
+2257,1104,Robinhood Individual,2025-10-22,Open
+2258,1105,Robinhood Individual,2021-05-25,Open
+2259,1105,The Fidelity Account,2023-10-30,Open
+2260,1106,Swissquote Trading Account,2026-03-31,Closed
+2261,1106,Schwab One Brokerage,2021-12-09,Closed
+2262,1107,Robinhood Individual,2021-04-25,Open
+2263,1107,Webull Cash Brokerage,2018-12-25,Open
+2264,1108,Interactive Brokers Japanese Brokerage,2024-05-12,Closed
+2265,1108,Vanguard Brokerage,2026-02-05,Closed
+2266,1108,Swissquote Trading Account,2018-04-03,Closed
+2267,1109,Schwab One Brokerage,2021-09-06,Closed
+2268,1109,Questrade Cash Account,2024-03-29,Open
+2269,1109,Saxo Individual Singapore Account,2020-07-30,Open
+2270,1110,Questrade Cash Account,2025-11-08,Open
+2271,1110,Vanguard Brokerage,2024-01-13,Open
+2272,1110,Robinhood Individual,2022-05-01,Open
+2273,1111,Interactive Brokers Japanese Brokerage,2019-11-02,Open
+2274,1111,Schwab One Brokerage,2023-08-01,Open
+2275,1111,E*TRADE Brokerage,2023-01-07,Open
+2276,1112,E*TRADE Brokerage,2021-01-05,Open
+2277,1112,Webull Cash Brokerage,2020-01-13,Open
+2278,1113,Saxo Individual Singapore Account,2025-11-30,Closed
+2279,1113,Robinhood Individual,2019-02-26,Open
+2280,1114,Schwab One Brokerage,2025-06-21,Open
+2281,1114,Vanguard Brokerage,2024-04-21,Open
+2282,1114,Interactive Brokers Japanese Brokerage,2024-12-18,Open
+2283,1115,Schwab One Brokerage,2026-03-04,Closed
+2284,1115,Vanguard Brokerage,2024-11-23,Closed
+2285,1115,The Fidelity Account,2025-06-22,Open
+2286,1116,Questrade Cash Account,2025-12-30,Closed
+2287,1116,Vanguard Brokerage,2025-05-23,Open
+2288,1116,Schwab One Brokerage,2018-12-25,Open
+2289,1117,The Fidelity Account,2019-03-10,Closed
+2290,1117,Robinhood Individual,2023-10-16,Open
+2291,1118,E*TRADE Brokerage,2023-01-30,Open
+2292,1118,Vanguard Brokerage,2020-11-04,Open
+2293,1118,Schwab One Brokerage,2022-07-29,Open
+2294,1119,Vanguard Brokerage,2025-01-26,Open
+2295,1119,Webull Cash Brokerage,2019-03-24,Open
+2296,1120,The Fidelity Account,2022-12-02,Closed
+2297,1120,Swissquote Trading Account,2020-12-27,Open
+2298,1121,Vanguard Brokerage,2023-08-21,Open
+2299,1121,E*TRADE Brokerage,2021-08-13,Open
+2300,1122,Schwab One Brokerage,2020-03-20,Closed
+2301,1122,E*TRADE Brokerage,2024-07-11,Open
+2302,1122,Swissquote Trading Account,2021-03-09,Open
+2303,1123,E*TRADE Brokerage,2022-09-04,Open
+2304,1123,Interactive Brokers Japanese Brokerage,2022-11-05,Open
+2305,1124,The Fidelity Account,2018-08-10,Open
+2306,1124,Webull Cash Brokerage,2024-11-27,Closed
+2307,1125,Webull Cash Brokerage,2018-02-15,Open
+2308,1125,Vanguard Brokerage,2022-01-06,Closed
+2309,1126,E*TRADE Brokerage,2021-07-19,Open
+2310,1126,Saxo Individual Singapore Account,2023-08-07,Open
+2311,1127,E*TRADE Brokerage,2023-09-17,Open
+2312,1127,Saxo Individual Singapore Account,2019-03-20,Open
+2313,1127,Interactive Brokers Japanese Brokerage,2019-08-02,Open
+2314,1128,Interactive Brokers Japanese Brokerage,2022-05-27,Open
+2315,1128,Robinhood Individual,2022-10-05,Open
+2316,1128,Swissquote Trading Account,2026-03-02,Open
+2317,1129,Questrade Cash Account,2024-04-01,Closed
+2318,1129,Interactive Brokers Japanese Brokerage,2020-02-06,Open
+2319,1129,Swissquote Trading Account,2019-08-08,Open
+2320,1130,Robinhood Individual,2020-03-23,Open
+2321,1130,Vanguard Brokerage,2022-07-06,Open
+2322,1130,Swissquote Trading Account,2020-01-02,Open
+2323,1131,Swissquote Trading Account,2025-01-25,Open
+2324,1131,Interactive Brokers Japanese Brokerage,2022-01-22,Open
+2325,1132,The Fidelity Account,2022-03-29,Open
+2326,1132,Saxo Individual Singapore Account,2023-03-20,Open
+2327,1132,Schwab One Brokerage,2018-05-04,Open
+2328,1133,Saxo Individual Singapore Account,2018-03-31,Open
+2329,1133,E*TRADE Brokerage,2025-12-27,Open
+2330,1134,Vanguard Brokerage,2021-12-26,Closed
+2331,1134,Webull Cash Brokerage,2019-11-12,Open
+2332,1135,Saxo Individual Singapore Account,2018-01-20,Open
+2333,1135,Schwab One Brokerage,2025-02-05,Open
+2334,1136,Robinhood Individual,2021-08-13,Open
+2335,1136,Webull Cash Brokerage,2021-04-03,Open
+2336,1136,Schwab One Brokerage,2025-05-16,Open
+2337,1137,Interactive Brokers Japanese Brokerage,2018-07-10,Open
+2338,1137,E*TRADE Brokerage,2018-06-17,Open
+2339,1137,Schwab One Brokerage,2024-12-11,Open
+2340,1138,Webull Cash Brokerage,2024-05-10,Open
+2341,1138,Robinhood Individual,2022-03-13,Open
+2342,1139,E*TRADE Brokerage,2018-08-17,Closed
+2343,1139,Questrade Cash Account,2023-07-27,Closed
+2344,1140,Interactive Brokers Japanese Brokerage,2024-10-13,Open
+2345,1140,Vanguard Brokerage,2020-10-15,Open
+2346,1141,The Fidelity Account,2026-01-28,Open
+2347,1141,Swissquote Trading Account,2025-02-12,Closed
+2348,1142,Webull Cash Brokerage,2018-05-26,Open
+2349,1142,E*TRADE Brokerage,2018-07-21,Open
+2350,1142,Interactive Brokers Japanese Brokerage,2022-05-25,Open
+2351,1143,Vanguard Brokerage,2023-02-05,Closed
+2352,1143,Robinhood Individual,2020-04-29,Closed
+2353,1143,The Fidelity Account,2020-06-10,Open
+2354,1144,Saxo Individual Singapore Account,2023-01-20,Open
+2355,1144,Robinhood Individual,2025-02-22,Open
+2356,1144,Interactive Brokers Japanese Brokerage,2020-09-04,Open
+2357,1145,E*TRADE Brokerage,2021-10-10,Closed
+2358,1145,Webull Cash Brokerage,2024-06-11,Open
+2359,1146,Schwab One Brokerage,2025-03-09,Open
+2360,1146,Vanguard Brokerage,2022-05-07,Open
+2361,1146,Webull Cash Brokerage,2025-04-06,Open
+2362,1147,Webull Cash Brokerage,2025-11-28,Open
+2363,1147,Schwab One Brokerage,2023-05-08,Open
+2364,1147,Robinhood Individual,2023-03-23,Open
+2365,1148,Swissquote Trading Account,2018-06-03,Open
+2366,1148,Robinhood Individual,2021-01-25,Open
+2367,1149,Swissquote Trading Account,2023-04-24,Open
+2368,1149,Schwab One Brokerage,2020-04-01,Closed
+2369,1149,Webull Cash Brokerage,2025-06-17,Open
+2370,1150,Schwab One Brokerage,2021-09-02,Open
+2371,1150,E*TRADE Brokerage,2022-12-27,Open
+2372,1150,Webull Cash Brokerage,2021-04-03,Open
+2373,1151,Robinhood Individual,2018-06-26,Open
+2374,1151,Vanguard Brokerage,2025-11-08,Closed
+2375,1151,The Fidelity Account,2025-05-17,Open
+2376,1152,Swissquote Trading Account,2024-01-18,Open
+2377,1152,Webull Cash Brokerage,2024-05-09,Open
+2378,1152,Robinhood Individual,2021-06-06,Open
+2379,1153,Questrade Cash Account,2019-01-31,Open
+2380,1153,The Fidelity Account,2019-02-22,Open
+2381,1154,Robinhood Individual,2018-03-01,Open
+2382,1154,Vanguard Brokerage,2024-08-26,Open
+2383,1154,Questrade Cash Account,2024-03-18,Open
+2384,1155,Saxo Individual Singapore Account,2022-02-05,Open
+2385,1155,Vanguard Brokerage,2023-03-18,Open
+2386,1155,Interactive Brokers Japanese Brokerage,2021-12-13,Open
+2387,1156,Robinhood Individual,2021-03-15,Open
+2388,1156,Webull Cash Brokerage,2018-05-26,Closed
+2389,1156,The Fidelity Account,2019-05-05,Open
+2390,1157,E*TRADE Brokerage,2023-10-29,Open
+2391,1157,Vanguard Brokerage,2023-01-05,Open
+2392,1158,Swissquote Trading Account,2024-05-28,Open
+2393,1158,Robinhood Individual,2020-03-12,Open
+2394,1158,E*TRADE Brokerage,2021-04-23,Open
+2395,1159,Webull Cash Brokerage,2022-05-13,Open
+2396,1159,Swissquote Trading Account,2022-06-12,Open
+2397,1160,Webull Cash Brokerage,2018-07-24,Open
+2398,1160,Swissquote Trading Account,2019-08-18,Closed
+2399,1161,Webull Cash Brokerage,2019-09-09,Closed
+2400,1161,E*TRADE Brokerage,2019-12-08,Open
+2401,1162,Schwab One Brokerage,2025-10-22,Closed
+2402,1162,E*TRADE Brokerage,2025-12-12,Open
+2403,1162,Webull Cash Brokerage,2020-08-13,Open
+2404,1163,Webull Cash Brokerage,2023-12-15,Closed
+2405,1163,E*TRADE Brokerage,2019-06-05,Open
+2406,1164,Schwab One Brokerage,2020-11-14,Open
+2407,1164,Robinhood Individual,2026-01-02,Open
+2408,1164,Webull Cash Brokerage,2018-11-27,Open
+2409,1165,Vanguard Brokerage,2022-07-15,Open
+2410,1165,Saxo Individual Singapore Account,2018-08-29,Open
+2411,1166,Swissquote Trading Account,2018-02-02,Closed
+2412,1166,The Fidelity Account,2025-01-28,Closed
+2413,1166,Webull Cash Brokerage,2025-06-28,Open
+2414,1167,Vanguard Brokerage,2019-05-15,Open
+2415,1167,The Fidelity Account,2018-11-06,Open
+2416,1167,Robinhood Individual,2023-01-09,Open
+2417,1168,Webull Cash Brokerage,2018-01-02,Closed
+2418,1168,E*TRADE Brokerage,2018-12-09,Open
+2419,1168,Schwab One Brokerage,2024-04-01,Open
+2420,1169,Swissquote Trading Account,2019-12-25,Open
+2421,1169,Schwab One Brokerage,2022-04-11,Open
+2422,1169,E*TRADE Brokerage,2023-07-31,Open
+2423,1170,Robinhood Individual,2019-02-07,Open
+2424,1170,Webull Cash Brokerage,2022-02-17,Open
+2425,1170,Schwab One Brokerage,2022-10-11,Closed
+2426,1171,Swissquote Trading Account,2022-09-25,Closed
+2427,1171,E*TRADE Brokerage,2021-07-04,Open
+2428,1171,Interactive Brokers Japanese Brokerage,2022-01-14,Open
+2429,1172,E*TRADE Brokerage,2018-08-15,Open
+2430,1172,Saxo Individual Singapore Account,2023-07-25,Open
+2431,1173,Swissquote Trading Account,2020-06-21,Open
+2432,1173,Robinhood Individual,2020-03-15,Closed
+2433,1173,E*TRADE Brokerage,2018-05-30,Open
+2434,1174,Swissquote Trading Account,2026-01-03,Open
+2435,1174,Schwab One Brokerage,2025-03-14,Open
+2436,1174,Saxo Individual Singapore Account,2020-09-09,Closed
+2437,1175,Questrade Cash Account,2019-03-05,Closed
+2438,1175,Robinhood Individual,2021-04-18,Open
+2439,1175,Webull Cash Brokerage,2022-04-02,Open
+2440,1176,Webull Cash Brokerage,2026-02-08,Closed
+2441,1176,Schwab One Brokerage,2018-10-15,Open
+2442,1177,Webull Cash Brokerage,2020-04-17,Open
+2443,1177,Robinhood Individual,2026-04-15,Open
+2444,1177,Saxo Individual Singapore Account,2019-12-21,Open
+2445,1178,Saxo Individual Singapore Account,2019-09-16,Open
+2446,1178,E*TRADE Brokerage,2020-01-31,Open
+2447,1178,Questrade Cash Account,2018-11-06,Open
+2448,1179,The Fidelity Account,2021-12-01,Open
+2449,1179,Vanguard Brokerage,2018-11-26,Open
+2450,1179,Robinhood Individual,2019-03-08,Closed
+2451,1180,Robinhood Individual,2021-11-10,Closed
+2452,1180,Swissquote Trading Account,2024-08-03,Closed
+2453,1180,Webull Cash Brokerage,2023-07-23,Open
+2454,1181,E*TRADE Brokerage,2019-06-03,Open
+2455,1181,Interactive Brokers Japanese Brokerage,2019-07-22,Closed
+2456,1182,The Fidelity Account,2018-02-12,Open
+2457,1182,Webull Cash Brokerage,2019-05-07,Open
+2458,1182,Vanguard Brokerage,2018-10-08,Open
+2459,1183,Robinhood Individual,2022-02-04,Open
+2460,1183,The Fidelity Account,2024-11-01,Open
+2461,1184,Vanguard Brokerage,2022-06-20,Closed
+2462,1184,The Fidelity Account,2019-07-09,Closed
+2463,1184,E*TRADE Brokerage,2023-03-27,Closed
+2464,1185,Swissquote Trading Account,2020-03-21,Open
+2465,1185,Webull Cash Brokerage,2025-10-03,Open
+2466,1186,Webull Cash Brokerage,2021-07-01,Open
+2467,1186,Interactive Brokers Japanese Brokerage,2022-10-08,Closed
+2468,1187,Interactive Brokers Japanese Brokerage,2023-08-23,Closed
+2469,1187,Swissquote Trading Account,2025-08-20,Open
+2470,1188,Interactive Brokers Japanese Brokerage,2024-07-14,Open
+2471,1188,Robinhood Individual,2023-09-21,Closed
+2472,1188,E*TRADE Brokerage,2021-08-25,Closed
+2473,1189,Saxo Individual Singapore Account,2024-04-24,Open
+2474,1189,Schwab One Brokerage,2025-03-21,Open
+2475,1190,Webull Cash Brokerage,2019-12-06,Open
+2476,1190,E*TRADE Brokerage,2024-11-07,Closed
+2477,1190,Questrade Cash Account,2020-01-10,Closed
+2478,1191,Webull Cash Brokerage,2018-12-16,Open
+2479,1191,The Fidelity Account,2022-04-17,Open
+2480,1191,E*TRADE Brokerage,2022-07-12,Closed
+2481,1192,E*TRADE Brokerage,2026-04-18,Open
+2482,1192,Swissquote Trading Account,2021-05-27,Open
+2483,1193,Schwab One Brokerage,2020-10-26,Open
+2484,1193,Robinhood Individual,2022-10-08,Open
+2485,1193,Webull Cash Brokerage,2021-09-29,Open
+2486,1194,The Fidelity Account,2024-02-26,Open
+2487,1194,Saxo Individual Singapore Account,2022-02-08,Closed
+2488,1194,Webull Cash Brokerage,2023-11-08,Closed
+2489,1195,Interactive Brokers Japanese Brokerage,2022-07-15,Open
+2490,1195,Robinhood Individual,2023-04-21,Open
+2491,1196,Robinhood Individual,2021-05-10,Open
+2492,1196,Questrade Cash Account,2025-09-21,Open
+2493,1197,Saxo Individual Singapore Account,2018-12-28,Open
+2494,1197,The Fidelity Account,2021-12-26,Closed
+2495,1197,Robinhood Individual,2018-07-05,Open
+2496,1198,Vanguard Brokerage,2025-03-03,Open
+2497,1198,Schwab One Brokerage,2022-02-19,Closed
+2498,1198,Robinhood Individual,2025-07-01,Open
+2499,1199,Robinhood Individual,2022-04-26,Open
+2500,1199,Vanguard Brokerage,2024-09-22,Open
+2501,1200,Interactive Brokers Japanese Brokerage,2025-03-01,Open
+2502,1200,Swissquote Trading Account,2018-02-17,Open
+2503,1201,The Fidelity Account,2024-05-14,Closed
+2504,1201,Saxo Individual Singapore Account,2021-02-18,Closed
+2505,1201,Robinhood Individual,2019-03-13,Closed
+2506,1202,Webull Cash Brokerage,2023-06-28,Open
+2507,1202,Questrade Cash Account,2019-06-05,Open
+2508,1203,Saxo Individual Singapore Account,2019-11-13,Open
+2509,1203,Webull Cash Brokerage,2020-11-28,Open
+2510,1204,Saxo Individual Singapore Account,2023-08-12,Closed
+2511,1204,Robinhood Individual,2018-09-20,Closed
+2512,1205,E*TRADE Brokerage,2021-04-11,Open
+2513,1205,The Fidelity Account,2025-04-11,Open
+2514,1206,Schwab One Brokerage,2021-01-18,Closed
+2515,1206,The Fidelity Account,2024-06-22,Open
+2516,1206,E*TRADE Brokerage,2022-06-28,Open
+2517,1207,The Fidelity Account,2021-09-22,Open
+2518,1207,Schwab One Brokerage,2018-11-16,Open
+2519,1208,Swissquote Trading Account,2020-03-16,Open
+2520,1208,Webull Cash Brokerage,2022-09-29,Open
+2521,1209,Questrade Cash Account,2024-02-07,Open
+2522,1209,E*TRADE Brokerage,2022-05-10,Closed
+2523,1209,Webull Cash Brokerage,2024-05-31,Closed
+2524,1210,Saxo Individual Singapore Account,2019-06-14,Closed
+2525,1210,Questrade Cash Account,2026-03-06,Closed
+2526,1211,The Fidelity Account,2019-02-27,Open
+2527,1211,Saxo Individual Singapore Account,2022-09-24,Open
+2528,1212,Questrade Cash Account,2026-01-26,Open
+2529,1212,Interactive Brokers Japanese Brokerage,2024-04-15,Closed
+2530,1212,Vanguard Brokerage,2025-12-14,Open
+2531,1213,Webull Cash Brokerage,2022-08-23,Open
+2532,1213,Vanguard Brokerage,2022-06-14,Open
+2533,1213,Interactive Brokers Japanese Brokerage,2023-09-06,Open
+2534,1214,Robinhood Individual,2019-12-17,Closed
+2535,1214,Schwab One Brokerage,2023-03-12,Open
+2536,1214,E*TRADE Brokerage,2022-07-07,Open
+2537,1215,Interactive Brokers Japanese Brokerage,2024-07-10,Closed
+2538,1215,The Fidelity Account,2025-03-25,Open
+2539,1215,Questrade Cash Account,2025-12-09,Open
+2540,1216,Swissquote Trading Account,2019-01-21,Open
+2541,1216,Questrade Cash Account,2025-08-26,Open
+2542,1216,Webull Cash Brokerage,2025-02-01,Open
+2543,1217,Vanguard Brokerage,2024-08-25,Open
+2544,1217,Robinhood Individual,2025-12-04,Open
+2545,1217,Swissquote Trading Account,2023-10-06,Open
+2546,1218,The Fidelity Account,2019-12-01,Open
+2547,1218,Schwab One Brokerage,2025-01-04,Open
+2548,1218,Webull Cash Brokerage,2021-08-10,Open
+2549,1219,Robinhood Individual,2024-06-17,Open
+2550,1219,Saxo Individual Singapore Account,2024-06-11,Closed
+2551,1219,E*TRADE Brokerage,2021-05-05,Closed
+2552,1220,E*TRADE Brokerage,2026-01-26,Open
+2553,1220,Webull Cash Brokerage,2023-05-27,Open
+2554,1220,Schwab One Brokerage,2020-06-25,Open
+2555,1221,Webull Cash Brokerage,2023-01-17,Open
+2556,1221,The Fidelity Account,2025-01-17,Open
+2557,1222,Robinhood Individual,2023-01-29,Open
+2558,1222,Webull Cash Brokerage,2022-08-11,Open
+2559,1222,Saxo Individual Singapore Account,2018-07-20,Closed
+2560,1223,Webull Cash Brokerage,2018-09-13,Open
+2561,1223,E*TRADE Brokerage,2020-11-20,Closed
+2562,1224,Schwab One Brokerage,2023-03-20,Open
+2563,1224,E*TRADE Brokerage,2022-03-24,Open
+2564,1225,Vanguard Brokerage,2026-01-06,Open
+2565,1225,Robinhood Individual,2024-04-04,Open
+2566,1225,The Fidelity Account,2018-04-19,Open
+2567,1226,Vanguard Brokerage,2023-10-14,Open
+2568,1226,Robinhood Individual,2019-08-19,Open
+2569,1227,Vanguard Brokerage,2025-09-10,Open
+2570,1227,E*TRADE Brokerage,2019-12-17,Open
+2571,1228,Webull Cash Brokerage,2022-07-13,Open
+2572,1228,Saxo Individual Singapore Account,2021-09-23,Open
+2573,1229,E*TRADE Brokerage,2021-12-23,Open
+2574,1229,Interactive Brokers Japanese Brokerage,2022-06-29,Open
+2575,1230,Questrade Cash Account,2026-02-05,Closed
+2576,1230,Saxo Individual Singapore Account,2019-07-23,Open
+2577,1231,The Fidelity Account,2025-10-11,Closed
+2578,1231,Robinhood Individual,2021-10-07,Open
+2579,1231,Vanguard Brokerage,2021-03-03,Open
+2580,1232,Vanguard Brokerage,2018-08-26,Open
+2581,1232,Schwab One Brokerage,2023-02-11,Open
+2582,1232,Webull Cash Brokerage,2023-12-29,Open
+2583,1233,E*TRADE Brokerage,2023-07-12,Open
+2584,1233,Robinhood Individual,2021-11-04,Open
+2585,1233,Webull Cash Brokerage,2023-01-31,Open
+2586,1234,The Fidelity Account,2022-02-07,Closed
+2587,1234,E*TRADE Brokerage,2022-07-07,Open
+2588,1235,Schwab One Brokerage,2025-02-20,Open
+2589,1235,Saxo Individual Singapore Account,2022-10-14,Open
+2590,1235,Vanguard Brokerage,2021-08-20,Open
+2591,1236,Robinhood Individual,2022-02-21,Open
+2592,1236,Vanguard Brokerage,2025-01-16,Open
+2593,1237,Schwab One Brokerage,2024-12-21,Closed
+2594,1237,Vanguard Brokerage,2019-01-29,Open
+2595,1238,Schwab One Brokerage,2022-04-20,Open
+2596,1238,Webull Cash Brokerage,2019-08-20,Closed
+2597,1238,Questrade Cash Account,2026-04-13,Open
+2598,1239,E*TRADE Brokerage,2018-04-27,Open
+2599,1239,Schwab One Brokerage,2023-05-11,Closed
+2600,1240,Vanguard Brokerage,2020-08-26,Closed
+2601,1240,Swissquote Trading Account,2022-05-15,Open
+2602,1240,The Fidelity Account,2021-04-27,Closed
+2603,1241,Schwab One Brokerage,2019-07-21,Closed
+2604,1241,Swissquote Trading Account,2023-03-17,Open
+2605,1242,Webull Cash Brokerage,2019-12-24,Open
+2606,1242,Questrade Cash Account,2018-06-07,Closed
+2607,1242,Robinhood Individual,2020-03-30,Open
+2608,1243,Swissquote Trading Account,2018-04-01,Closed
+2609,1243,Webull Cash Brokerage,2025-06-14,Open
+2610,1244,Vanguard Brokerage,2021-01-01,Open
+2611,1244,Webull Cash Brokerage,2026-04-14,Closed
+2612,1244,The Fidelity Account,2021-03-04,Open
+2613,1245,Interactive Brokers Japanese Brokerage,2023-02-28,Open
+2614,1245,Swissquote Trading Account,2023-09-17,Open
+2615,1245,The Fidelity Account,2022-09-28,Open
+2616,1246,Vanguard Brokerage,2018-04-04,Closed
+2617,1246,Webull Cash Brokerage,2019-01-15,Closed
+2618,1247,E*TRADE Brokerage,2020-04-30,Open
+2619,1247,Webull Cash Brokerage,2022-07-07,Open
+2620,1247,Schwab One Brokerage,2024-06-25,Open
+2621,1248,Schwab One Brokerage,2020-11-08,Open
+2622,1248,Robinhood Individual,2021-02-13,Closed
+2623,1249,E*TRADE Brokerage,2020-02-04,Open
+2624,1249,Webull Cash Brokerage,2025-10-12,Closed
+2625,1250,Webull Cash Brokerage,2021-04-11,Closed
+2626,1250,Robinhood Individual,2022-12-11,Open
+2627,1250,Schwab One Brokerage,2019-08-20,Open
+2628,1251,Interactive Brokers Japanese Brokerage,2020-12-09,Open
+2629,1251,Webull Cash Brokerage,2024-10-15,Closed
+2630,1251,E*TRADE Brokerage,2020-06-13,Open
+2631,1252,Schwab One Brokerage,2023-04-26,Open
+2632,1252,Robinhood Individual,2023-04-13,Open
+2633,1252,Vanguard Brokerage,2019-02-09,Open
+2634,1253,Webull Cash Brokerage,2022-06-09,Open
+2635,1253,Questrade Cash Account,2022-10-19,Open
+2636,1253,Robinhood Individual,2020-03-30,Closed
+2637,1254,Vanguard Brokerage,2021-04-05,Closed
+2638,1254,The Fidelity Account,2025-03-20,Open
+2639,1254,Webull Cash Brokerage,2025-03-20,Open
+2640,1255,Vanguard Brokerage,2019-08-15,Open
+2641,1255,The Fidelity Account,2025-12-31,Open
+2642,1255,Schwab One Brokerage,2025-09-11,Open
+2643,1256,Schwab One Brokerage,2025-10-13,Closed
+2644,1256,Robinhood Individual,2020-10-31,Closed
+2645,1256,Vanguard Brokerage,2019-05-16,Open
+2646,1257,Vanguard Brokerage,2018-08-31,Open
+2647,1257,E*TRADE Brokerage,2023-09-02,Open
+2648,1257,Interactive Brokers Japanese Brokerage,2020-09-24,Open
+2649,1258,The Fidelity Account,2022-06-10,Closed
+2650,1258,E*TRADE Brokerage,2020-10-24,Closed
+2651,1259,Vanguard Brokerage,2026-03-29,Open
+2652,1259,Webull Cash Brokerage,2022-01-10,Open
+2653,1260,The Fidelity Account,2025-08-12,Open
+2654,1260,Robinhood Individual,2020-11-10,Closed
+2655,1260,Vanguard Brokerage,2019-05-26,Open
+2656,1261,Saxo Individual Singapore Account,2024-05-02,Closed
+2657,1261,Vanguard Brokerage,2023-07-12,Closed
+2658,1262,Robinhood Individual,2022-11-28,Open
+2659,1262,The Fidelity Account,2025-03-26,Open
+2660,1262,Vanguard Brokerage,2019-11-08,Open
+2661,1263,Vanguard Brokerage,2022-05-31,Open
+2662,1263,Schwab One Brokerage,2024-07-05,Open
+2663,1263,Robinhood Individual,2021-01-30,Closed
+2664,1264,Interactive Brokers Japanese Brokerage,2019-11-12,Open
+2665,1264,Webull Cash Brokerage,2026-04-04,Open
+2666,1265,E*TRADE Brokerage,2022-03-15,Closed
+2667,1265,Interactive Brokers Japanese Brokerage,2022-08-31,Open
+2668,1266,Webull Cash Brokerage,2021-04-05,Closed
+2669,1266,E*TRADE Brokerage,2021-01-17,Open
+2670,1267,Questrade Cash Account,2025-12-04,Open
+2671,1267,Saxo Individual Singapore Account,2022-01-29,Open
+2672,1268,Webull Cash Brokerage,2020-03-10,Open
+2673,1268,Robinhood Individual,2021-03-21,Open
+2674,1269,Saxo Individual Singapore Account,2025-01-30,Open
+2675,1269,Questrade Cash Account,2020-09-13,Open
+2676,1270,E*TRADE Brokerage,2023-01-30,Closed
+2677,1270,Saxo Individual Singapore Account,2024-04-18,Open
+2678,1271,Vanguard Brokerage,2024-06-09,Open
+2679,1271,Schwab One Brokerage,2020-05-23,Closed
+2680,1271,Robinhood Individual,2020-03-07,Closed
+2681,1272,Webull Cash Brokerage,2018-01-24,Open
+2682,1272,Vanguard Brokerage,2020-07-21,Closed
+2683,1272,E*TRADE Brokerage,2023-03-11,Open
+2684,1273,Saxo Individual Singapore Account,2025-04-24,Open
+2685,1273,E*TRADE Brokerage,2025-06-12,Closed
+2686,1273,Webull Cash Brokerage,2024-11-12,Open
+2687,1274,Webull Cash Brokerage,2018-08-15,Open
+2688,1274,Saxo Individual Singapore Account,2024-12-07,Open
+2689,1275,Schwab One Brokerage,2025-08-12,Open
+2690,1275,Saxo Individual Singapore Account,2022-12-28,Open
+2691,1276,E*TRADE Brokerage,2019-05-17,Open
+2692,1276,Vanguard Brokerage,2019-08-29,Open
+2693,1276,Robinhood Individual,2024-12-09,Closed
+2694,1277,The Fidelity Account,2020-10-11,Open
+2695,1277,Schwab One Brokerage,2019-12-19,Closed
+2696,1277,E*TRADE Brokerage,2024-08-10,Open
+2697,1278,Robinhood Individual,2018-09-19,Open
+2698,1278,Schwab One Brokerage,2021-01-12,Open
+2699,1279,Saxo Individual Singapore Account,2021-04-15,Open
+2700,1279,Vanguard Brokerage,2018-09-26,Open
+2701,1280,Schwab One Brokerage,2020-06-12,Closed
+2702,1280,Vanguard Brokerage,2018-11-24,Open
+2703,1280,Questrade Cash Account,2024-11-22,Open
+2704,1281,Schwab One Brokerage,2019-09-08,Closed
+2705,1281,E*TRADE Brokerage,2019-10-21,Open
+2706,1282,The Fidelity Account,2019-06-12,Open
+2707,1282,Saxo Individual Singapore Account,2023-02-28,Open
+2708,1283,Schwab One Brokerage,2019-10-15,Open
+2709,1283,Robinhood Individual,2021-06-30,Closed
+2710,1284,Questrade Cash Account,2024-01-24,Open
+2711,1284,Schwab One Brokerage,2025-12-01,Open
+2712,1284,Webull Cash Brokerage,2018-10-24,Open
+2713,1285,Robinhood Individual,2024-08-26,Open
+2714,1285,Vanguard Brokerage,2021-09-22,Open
+2715,1286,Schwab One Brokerage,2020-08-23,Open
+2716,1286,Webull Cash Brokerage,2018-02-18,Open
+2717,1287,Questrade Cash Account,2023-03-04,Open
+2718,1287,Robinhood Individual,2025-12-08,Closed
+2719,1287,Webull Cash Brokerage,2019-04-01,Open
+2720,1288,Schwab One Brokerage,2025-03-14,Open
+2721,1288,The Fidelity Account,2024-09-06,Closed
+2722,1289,Robinhood Individual,2020-05-12,Open
+2723,1289,Saxo Individual Singapore Account,2024-05-30,Open
+2724,1289,Schwab One Brokerage,2018-09-23,Open
+2725,1290,The Fidelity Account,2024-06-19,Open
+2726,1290,Questrade Cash Account,2019-06-24,Open
+2727,1290,Robinhood Individual,2021-03-10,Closed
+2728,1291,Schwab One Brokerage,2022-05-29,Closed
+2729,1291,Interactive Brokers Japanese Brokerage,2026-04-23,Open
+2730,1292,Webull Cash Brokerage,2023-10-19,Open
+2731,1292,Schwab One Brokerage,2022-05-13,Open
+2732,1292,E*TRADE Brokerage,2022-09-05,Closed
+2733,1293,Webull Cash Brokerage,2024-07-12,Open
+2734,1293,E*TRADE Brokerage,2025-07-30,Open
+2735,1293,Vanguard Brokerage,2025-03-23,Open
+2736,1294,Schwab One Brokerage,2018-01-21,Closed
+2737,1294,Webull Cash Brokerage,2021-01-03,Open
+2738,1294,Robinhood Individual,2019-12-16,Open
+2739,1295,Questrade Cash Account,2022-04-14,Open
+2740,1295,E*TRADE Brokerage,2022-08-24,Open
+2741,1295,Saxo Individual Singapore Account,2024-05-22,Open
+2742,1296,Interactive Brokers Japanese Brokerage,2021-05-08,Open
+2743,1296,Vanguard Brokerage,2025-05-31,Closed
+2744,1297,Schwab One Brokerage,2025-10-15,Open
+2745,1297,Robinhood Individual,2022-08-23,Open
+2746,1298,Webull Cash Brokerage,2025-08-09,Open
+2747,1298,Schwab One Brokerage,2024-06-18,Open
+2748,1299,Robinhood Individual,2021-06-19,Open
+2749,1299,Saxo Individual Singapore Account,2025-12-16,Closed
+2750,1300,Swissquote Trading Account,2025-03-13,Open
+2751,1300,Robinhood Individual,2022-11-11,Open
+2752,1300,E*TRADE Brokerage,2021-06-17,Open
+2753,1301,Robinhood Individual,2024-04-13,Open
+2754,1301,Questrade Cash Account,2022-06-28,Open
+2755,1302,Interactive Brokers Japanese Brokerage,2020-04-30,Open
+2756,1302,E*TRADE Brokerage,2025-03-09,Open
+2757,1303,Saxo Individual Singapore Account,2019-02-25,Open
+2758,1303,Swissquote Trading Account,2023-11-18,Open
+2759,1304,The Fidelity Account,2022-04-02,Open
+2760,1304,Schwab One Brokerage,2026-03-10,Open
+2761,1305,The Fidelity Account,2025-06-10,Open
+2762,1305,Saxo Individual Singapore Account,2020-04-30,Closed
+2763,1306,Robinhood Individual,2023-04-08,Open
+2764,1306,Vanguard Brokerage,2024-02-08,Open
+2765,1307,The Fidelity Account,2022-11-27,Open
+2766,1307,Vanguard Brokerage,2022-07-24,Open
+2767,1307,Saxo Individual Singapore Account,2025-07-16,Closed
+2768,1308,The Fidelity Account,2024-07-23,Open
+2769,1308,Webull Cash Brokerage,2025-01-04,Closed
+2770,1308,Schwab One Brokerage,2020-05-26,Closed
+2771,1309,Robinhood Individual,2022-03-08,Open
+2772,1309,The Fidelity Account,2020-07-15,Open
+2773,1309,Webull Cash Brokerage,2023-02-12,Open
+2774,1310,Swissquote Trading Account,2018-12-27,Open
+2775,1310,Saxo Individual Singapore Account,2018-09-10,Open
+2776,1311,Webull Cash Brokerage,2023-10-10,Open
+2777,1311,E*TRADE Brokerage,2026-03-17,Open
+2778,1311,Schwab One Brokerage,2018-03-19,Open
+2779,1312,Saxo Individual Singapore Account,2025-10-07,Open
+2780,1312,Robinhood Individual,2018-01-20,Open
+2781,1313,The Fidelity Account,2018-04-30,Open
+2782,1313,Schwab One Brokerage,2019-04-20,Open
+2783,1313,Questrade Cash Account,2020-07-22,Closed
+2784,1314,Webull Cash Brokerage,2023-04-29,Open
+2785,1314,Robinhood Individual,2022-11-19,Open
+2786,1314,Schwab One Brokerage,2025-04-26,Open
+2787,1315,Interactive Brokers Japanese Brokerage,2018-08-10,Open
+2788,1315,Swissquote Trading Account,2019-12-21,Open
+2789,1315,Vanguard Brokerage,2023-05-09,Closed
+2790,1316,Vanguard Brokerage,2024-11-17,Open
+2791,1316,The Fidelity Account,2026-04-04,Open
+2792,1316,E*TRADE Brokerage,2018-12-19,Closed
+2793,1317,Robinhood Individual,2020-09-18,Closed
+2794,1317,E*TRADE Brokerage,2020-08-23,Closed
+2795,1318,E*TRADE Brokerage,2019-09-26,Open
+2796,1318,Robinhood Individual,2020-09-12,Closed
+2797,1318,The Fidelity Account,2022-01-01,Open
+2798,1319,Vanguard Brokerage,2022-05-07,Open
+2799,1319,Webull Cash Brokerage,2023-04-11,Open
+2800,1319,Robinhood Individual,2021-07-18,Open
+2801,1320,Schwab One Brokerage,2024-02-24,Open
+2802,1320,Swissquote Trading Account,2023-09-06,Open
+2803,1320,Robinhood Individual,2020-05-13,Open
+2804,1321,The Fidelity Account,2020-05-15,Open
+2805,1321,Schwab One Brokerage,2022-05-01,Closed
+2806,1322,Questrade Cash Account,2023-02-20,Open
+2807,1322,Robinhood Individual,2021-03-19,Open
+2808,1322,E*TRADE Brokerage,2023-03-01,Open
+2809,1323,Saxo Individual Singapore Account,2024-04-11,Closed
+2810,1323,The Fidelity Account,2020-02-18,Open
+2811,1324,Robinhood Individual,2026-01-08,Closed
+2812,1324,Webull Cash Brokerage,2023-10-02,Open
+2813,1325,Questrade Cash Account,2025-10-20,Open
+2814,1325,Swissquote Trading Account,2021-07-10,Open
+2815,1325,E*TRADE Brokerage,2025-06-27,Open
+2816,1326,Swissquote Trading Account,2024-07-27,Closed
+2817,1326,Questrade Cash Account,2023-12-29,Open
+2818,1327,The Fidelity Account,2020-06-09,Open
+2819,1327,Saxo Individual Singapore Account,2021-06-11,Open
+2820,1327,Questrade Cash Account,2024-03-22,Open
+2821,1328,The Fidelity Account,2019-01-30,Open
+2822,1328,Vanguard Brokerage,2025-01-17,Open
+2823,1329,Saxo Individual Singapore Account,2026-03-15,Open
+2824,1329,Swissquote Trading Account,2023-11-11,Open
+2825,1330,Questrade Cash Account,2025-08-28,Open
+2826,1330,Schwab One Brokerage,2020-05-25,Open
+2827,1330,Interactive Brokers Japanese Brokerage,2025-11-28,Open
+2828,1331,Questrade Cash Account,2018-07-31,Open
+2829,1331,Schwab One Brokerage,2019-10-27,Closed
+2830,1331,Saxo Individual Singapore Account,2024-10-10,Open
+2831,1332,Webull Cash Brokerage,2023-11-23,Open
+2832,1332,E*TRADE Brokerage,2024-09-23,Closed
+2833,1332,Interactive Brokers Japanese Brokerage,2018-11-19,Closed
+2834,1333,Saxo Individual Singapore Account,2019-02-11,Open
+2835,1333,Vanguard Brokerage,2024-12-19,Closed
+2836,1333,Robinhood Individual,2019-01-20,Open
+2837,1334,Schwab One Brokerage,2023-01-20,Open
+2838,1334,Vanguard Brokerage,2025-04-26,Open
+2839,1335,Vanguard Brokerage,2023-05-17,Open
+2840,1335,Schwab One Brokerage,2023-03-23,Open
+2841,1336,Vanguard Brokerage,2023-03-14,Open
+2842,1336,Questrade Cash Account,2018-06-29,Open
+2843,1336,Robinhood Individual,2024-02-24,Open
+2844,1337,The Fidelity Account,2025-05-17,Open
+2845,1337,Webull Cash Brokerage,2022-04-30,Open
+2846,1337,Vanguard Brokerage,2021-06-17,Open
+2847,1338,Robinhood Individual,2022-01-29,Open
+2848,1338,Vanguard Brokerage,2019-09-13,Open
+2849,1339,Schwab One Brokerage,2022-08-09,Open
+2850,1339,Webull Cash Brokerage,2020-11-15,Open
+2851,1339,The Fidelity Account,2022-06-08,Open
+2852,1340,Saxo Individual Singapore Account,2024-05-22,Closed
+2853,1340,Questrade Cash Account,2021-05-14,Open
+2854,1340,Swissquote Trading Account,2023-11-19,Open
+2855,1341,Vanguard Brokerage,2023-07-17,Closed
+2856,1341,Robinhood Individual,2019-06-23,Open
+2857,1341,Webull Cash Brokerage,2019-07-04,Open
+2858,1342,The Fidelity Account,2020-11-30,Closed
+2859,1342,Interactive Brokers Japanese Brokerage,2021-11-13,Open
+2860,1342,Vanguard Brokerage,2020-03-02,Open
+2861,1343,Saxo Individual Singapore Account,2026-02-08,Open
+2862,1343,Swissquote Trading Account,2022-09-06,Closed
+2863,1343,Questrade Cash Account,2020-03-19,Open
+2864,1344,Webull Cash Brokerage,2019-02-17,Open
+2865,1344,Robinhood Individual,2019-04-16,Open
+2866,1345,The Fidelity Account,2022-10-04,Open
+2867,1345,Questrade Cash Account,2018-04-10,Closed
+2868,1345,Robinhood Individual,2019-03-10,Open
+2869,1346,Swissquote Trading Account,2018-10-02,Open
+2870,1346,Webull Cash Brokerage,2024-10-20,Open
+2871,1347,Robinhood Individual,2025-02-13,Closed
+2872,1347,E*TRADE Brokerage,2024-03-06,Open
+2873,1347,Schwab One Brokerage,2021-03-09,Closed
+2874,1348,Robinhood Individual,2023-06-24,Open
+2875,1348,Schwab One Brokerage,2020-01-04,Open
+2876,1349,Swissquote Trading Account,2018-11-08,Closed
+2877,1349,Questrade Cash Account,2018-06-11,Open
+2878,1349,Vanguard Brokerage,2025-03-28,Open
+2879,1350,Robinhood Individual,2023-12-26,Open
+2880,1350,Vanguard Brokerage,2025-12-31,Open
+2881,1350,E*TRADE Brokerage,2023-05-18,Closed
+2882,1351,Interactive Brokers Japanese Brokerage,2019-06-19,Open
+2883,1351,E*TRADE Brokerage,2021-10-22,Open
+2884,1351,Robinhood Individual,2019-10-17,Open
+2885,1352,Saxo Individual Singapore Account,2021-09-09,Open
+2886,1352,Questrade Cash Account,2023-12-22,Open
+2887,1352,Vanguard Brokerage,2019-10-23,Closed
+2888,1353,Saxo Individual Singapore Account,2022-09-14,Open
+2889,1353,Robinhood Individual,2022-11-08,Open
+2890,1354,Webull Cash Brokerage,2019-07-21,Open
+2891,1354,The Fidelity Account,2024-12-23,Open
+2892,1355,Questrade Cash Account,2020-09-03,Open
+2893,1355,Interactive Brokers Japanese Brokerage,2021-07-24,Closed
+2894,1356,Questrade Cash Account,2019-04-18,Closed
+2895,1356,Vanguard Brokerage,2025-12-15,Open
+2896,1357,Vanguard Brokerage,2025-07-30,Closed
+2897,1357,The Fidelity Account,2019-10-14,Open
+2898,1358,E*TRADE Brokerage,2021-06-07,Open
+2899,1358,Schwab One Brokerage,2019-06-05,Open
+2900,1358,Webull Cash Brokerage,2018-11-03,Open
+2901,1359,Webull Cash Brokerage,2021-07-23,Open
+2902,1359,Vanguard Brokerage,2020-09-21,Open
+2903,1360,Questrade Cash Account,2025-02-10,Open
+2904,1360,Schwab One Brokerage,2018-08-18,Open
+2905,1360,Webull Cash Brokerage,2020-07-11,Closed
+2906,1361,Saxo Individual Singapore Account,2022-08-10,Closed
+2907,1361,Vanguard Brokerage,2019-03-14,Open
+2908,1361,Webull Cash Brokerage,2025-06-20,Open
+2909,1362,Robinhood Individual,2020-09-15,Open
+2910,1362,E*TRADE Brokerage,2021-01-11,Open
+2911,1362,Webull Cash Brokerage,2026-01-11,Open
+2912,1363,Swissquote Trading Account,2024-07-29,Open
+2913,1363,Webull Cash Brokerage,2025-02-16,Open
+2914,1363,The Fidelity Account,2022-07-02,Closed
+2915,1364,Webull Cash Brokerage,2020-09-01,Closed
+2916,1364,Vanguard Brokerage,2025-10-29,Closed
+2917,1364,Swissquote Trading Account,2020-03-22,Closed
+2918,1365,Robinhood Individual,2019-01-07,Open
+2919,1365,Swissquote Trading Account,2024-01-14,Closed
+2920,1366,The Fidelity Account,2021-11-09,Open
+2921,1366,Questrade Cash Account,2024-03-12,Open
+2922,1366,Robinhood Individual,2022-02-09,Open
+2923,1367,The Fidelity Account,2019-05-07,Open
+2924,1367,Vanguard Brokerage,2021-04-10,Open
+2925,1367,Robinhood Individual,2020-01-22,Open
+2926,1368,Saxo Individual Singapore Account,2018-03-01,Open
+2927,1368,Webull Cash Brokerage,2020-10-08,Closed
+2928,1368,Robinhood Individual,2025-03-17,Open
+2929,1369,Saxo Individual Singapore Account,2022-10-24,Open
+2930,1369,Vanguard Brokerage,2025-12-09,Open
+2931,1370,Swissquote Trading Account,2022-02-24,Closed
+2932,1370,Robinhood Individual,2023-12-17,Open
+2933,1371,Questrade Cash Account,2018-12-21,Open
+2934,1371,Swissquote Trading Account,2025-06-10,Open
+2935,1371,The Fidelity Account,2023-01-11,Open
+2936,1372,The Fidelity Account,2025-01-23,Open
+2937,1372,E*TRADE Brokerage,2022-11-07,Closed
+2938,1372,Schwab One Brokerage,2018-01-09,Closed
+2939,1373,Vanguard Brokerage,2022-10-04,Open
+2940,1373,Schwab One Brokerage,2021-08-31,Open
+2941,1373,Robinhood Individual,2019-05-09,Open
+2942,1374,Webull Cash Brokerage,2020-10-04,Open
+2943,1374,The Fidelity Account,2023-07-22,Open
+2944,1375,Robinhood Individual,2022-12-18,Open
+2945,1375,The Fidelity Account,2024-04-30,Open
+2946,1376,Saxo Individual Singapore Account,2025-08-02,Open
+2947,1376,Robinhood Individual,2023-12-27,Open
+2948,1376,Vanguard Brokerage,2019-10-14,Closed
+2949,1377,Questrade Cash Account,2023-11-24,Open
+2950,1377,Swissquote Trading Account,2024-10-22,Open
+2951,1377,The Fidelity Account,2019-02-25,Open
+2952,1378,Webull Cash Brokerage,2025-12-03,Closed
+2953,1378,Schwab One Brokerage,2025-11-17,Open
+2954,1379,Schwab One Brokerage,2022-04-28,Open
+2955,1379,The Fidelity Account,2019-02-02,Open
+2956,1380,Schwab One Brokerage,2020-11-13,Open
+2957,1380,Robinhood Individual,2024-07-03,Open
+2958,1380,E*TRADE Brokerage,2026-03-04,Closed
+2959,1381,E*TRADE Brokerage,2019-02-14,Closed
+2960,1381,The Fidelity Account,2021-01-13,Open
+2961,1382,Schwab One Brokerage,2024-01-28,Open
+2962,1382,Webull Cash Brokerage,2024-01-18,Open
+2963,1383,Vanguard Brokerage,2018-06-15,Closed
+2964,1383,Schwab One Brokerage,2019-07-28,Open
+2965,1384,Schwab One Brokerage,2018-04-25,Open
+2966,1384,The Fidelity Account,2018-05-16,Open
+2967,1384,Saxo Individual Singapore Account,2024-05-03,Open
+2968,1385,Questrade Cash Account,2022-01-27,Open
+2969,1385,E*TRADE Brokerage,2024-10-02,Closed
+2970,1386,The Fidelity Account,2023-09-18,Open
+2971,1386,Swissquote Trading Account,2021-11-17,Open
+2972,1387,Schwab One Brokerage,2022-03-12,Open
+2973,1387,Interactive Brokers Japanese Brokerage,2025-03-12,Open
+2974,1387,E*TRADE Brokerage,2021-08-26,Open
+2975,1388,Swissquote Trading Account,2023-09-11,Open
+2976,1388,Interactive Brokers Japanese Brokerage,2023-10-11,Open
+2977,1388,E*TRADE Brokerage,2024-01-06,Closed
+2978,1389,Swissquote Trading Account,2025-04-26,Open
+2979,1389,Saxo Individual Singapore Account,2023-07-24,Open
+2980,1389,Questrade Cash Account,2020-12-23,Open
+2981,1390,Questrade Cash Account,2019-12-22,Closed
+2982,1390,Robinhood Individual,2022-06-16,Closed
+2983,1391,E*TRADE Brokerage,2025-09-12,Closed
+2984,1391,The Fidelity Account,2024-08-26,Closed
+2985,1392,Saxo Individual Singapore Account,2025-09-07,Open
+2986,1392,E*TRADE Brokerage,2024-08-01,Open
+2987,1393,Swissquote Trading Account,2024-10-11,Open
+2988,1393,Webull Cash Brokerage,2018-05-04,Closed
+2989,1394,Webull Cash Brokerage,2018-02-22,Open
+2990,1394,Vanguard Brokerage,2026-02-23,Open
+2991,1395,The Fidelity Account,2019-12-20,Closed
+2992,1395,Robinhood Individual,2021-03-25,Open
+2993,1396,Swissquote Trading Account,2018-09-07,Open
+2994,1396,E*TRADE Brokerage,2022-10-09,Open
+2995,1397,The Fidelity Account,2024-08-13,Open
+2996,1397,Robinhood Individual,2020-09-02,Closed
+2997,1397,Saxo Individual Singapore Account,2021-10-31,Closed
+2998,1398,Vanguard Brokerage,2020-11-21,Open
+2999,1398,Schwab One Brokerage,2025-04-06,Open
+3000,1398,Webull Cash Brokerage,2025-12-12,Open
+3001,1399,Questrade Cash Account,2025-04-06,Open
+3002,1399,Vanguard Brokerage,2022-10-02,Open
+3003,1399,Swissquote Trading Account,2025-09-25,Closed
+3004,1400,Robinhood Individual,2018-10-12,Open
+3005,1400,E*TRADE Brokerage,2024-06-27,Open
+3006,1400,Schwab One Brokerage,2023-05-10,Open
+3007,1401,Webull Cash Brokerage,2019-05-25,Open
+3008,1401,Swissquote Trading Account,2025-09-20,Open
+3009,1401,E*TRADE Brokerage,2025-11-05,Open
+3010,1402,Webull Cash Brokerage,2024-03-29,Open
+3011,1402,Vanguard Brokerage,2023-07-13,Open
+3012,1402,The Fidelity Account,2018-10-09,Closed
+3013,1403,The Fidelity Account,2019-08-28,Closed
+3014,1403,Schwab One Brokerage,2020-04-23,Open
+3015,1404,Saxo Individual Singapore Account,2025-03-25,Open
+3016,1404,Robinhood Individual,2022-04-05,Closed
+3017,1405,Schwab One Brokerage,2018-06-22,Closed
+3018,1405,Robinhood Individual,2024-11-09,Open
+3019,1406,The Fidelity Account,2025-08-05,Open
+3020,1406,Webull Cash Brokerage,2022-10-20,Closed
+3021,1407,Questrade Cash Account,2026-04-07,Open
+3022,1407,E*TRADE Brokerage,2018-09-09,Open
+3023,1407,Swissquote Trading Account,2023-09-21,Closed
+3024,1408,Swissquote Trading Account,2022-03-01,Open
+3025,1408,Robinhood Individual,2023-01-26,Open
+3026,1408,The Fidelity Account,2018-12-17,Open
+3027,1409,Questrade Cash Account,2023-04-27,Open
+3028,1409,Webull Cash Brokerage,2024-06-30,Open
+3029,1410,Robinhood Individual,2024-02-05,Closed
+3030,1410,Vanguard Brokerage,2018-12-18,Open
+3031,1410,E*TRADE Brokerage,2019-04-24,Open
+3032,1411,Schwab One Brokerage,2025-03-21,Open
+3033,1411,E*TRADE Brokerage,2025-09-11,Open
+3034,1412,The Fidelity Account,2025-12-30,Open
+3035,1412,Swissquote Trading Account,2021-06-01,Open
+3036,1412,Webull Cash Brokerage,2024-04-08,Closed
+3037,1413,Webull Cash Brokerage,2019-03-01,Closed
+3038,1413,The Fidelity Account,2018-12-17,Open
+3039,1414,Schwab One Brokerage,2024-06-04,Open
+3040,1414,Saxo Individual Singapore Account,2023-08-11,Open
+3041,1414,Vanguard Brokerage,2018-12-19,Open
+3042,1415,Vanguard Brokerage,2021-03-09,Open
+3043,1415,Swissquote Trading Account,2018-11-14,Open
+3044,1416,Webull Cash Brokerage,2025-08-10,Closed
+3045,1416,The Fidelity Account,2018-05-08,Open
+3046,1416,Schwab One Brokerage,2023-02-22,Closed
+3047,1417,The Fidelity Account,2018-04-08,Open
+3048,1417,Vanguard Brokerage,2019-02-18,Open
+3049,1417,Webull Cash Brokerage,2020-11-09,Open
+3050,1418,Webull Cash Brokerage,2024-03-08,Open
+3051,1418,E*TRADE Brokerage,2022-05-29,Open
+3052,1418,Vanguard Brokerage,2021-08-24,Open
+3053,1419,Robinhood Individual,2020-01-27,Closed
+3054,1419,Webull Cash Brokerage,2025-09-16,Open
+3055,1420,The Fidelity Account,2024-03-21,Closed
+3056,1420,Vanguard Brokerage,2019-10-14,Open
+3057,1420,E*TRADE Brokerage,2020-06-12,Open
+3058,1421,Webull Cash Brokerage,2019-08-09,Open
+3059,1421,Robinhood Individual,2021-03-02,Closed
+3060,1421,Schwab One Brokerage,2019-09-26,Open
+3061,1422,Webull Cash Brokerage,2018-02-10,Closed
+3062,1422,Robinhood Individual,2019-06-29,Closed
+3063,1422,Swissquote Trading Account,2023-06-03,Open
+3064,1423,Questrade Cash Account,2023-07-17,Open
+3065,1423,Schwab One Brokerage,2020-07-06,Open
+3066,1423,Interactive Brokers Japanese Brokerage,2022-05-04,Open
+3067,1424,Saxo Individual Singapore Account,2019-04-01,Closed
+3068,1424,Interactive Brokers Japanese Brokerage,2024-07-15,Open
+3069,1425,Webull Cash Brokerage,2019-06-20,Open
+3070,1425,Schwab One Brokerage,2018-10-02,Open
+3071,1426,Interactive Brokers Japanese Brokerage,2018-03-11,Open
+3072,1426,The Fidelity Account,2022-08-26,Closed
+3073,1427,Vanguard Brokerage,2021-04-15,Open
+3074,1427,Schwab One Brokerage,2022-05-16,Open
+3075,1427,The Fidelity Account,2025-09-05,Open
+3076,1428,Robinhood Individual,2025-02-28,Open
+3077,1428,E*TRADE Brokerage,2022-10-20,Open
+3078,1429,Webull Cash Brokerage,2020-09-20,Closed
+3079,1429,The Fidelity Account,2019-02-14,Open
+3080,1429,E*TRADE Brokerage,2022-12-20,Open
+3081,1430,Webull Cash Brokerage,2021-02-16,Open
+3082,1430,Schwab One Brokerage,2018-02-22,Open
+3083,1430,E*TRADE Brokerage,2024-11-09,Open
+3084,1431,Schwab One Brokerage,2019-08-13,Open
+3085,1431,Vanguard Brokerage,2025-01-20,Open
+3086,1431,E*TRADE Brokerage,2026-04-14,Open
+3087,1432,The Fidelity Account,2020-11-30,Open
+3088,1432,Webull Cash Brokerage,2021-03-03,Open
+3089,1432,Saxo Individual Singapore Account,2024-08-03,Open
+3090,1433,Webull Cash Brokerage,2024-10-01,Open
+3091,1433,E*TRADE Brokerage,2024-02-17,Open
+3092,1433,The Fidelity Account,2018-01-04,Open
+3093,1434,Vanguard Brokerage,2025-10-02,Open
+3094,1434,E*TRADE Brokerage,2023-12-18,Open
+3095,1435,Questrade Cash Account,2022-09-27,Closed
+3096,1435,The Fidelity Account,2020-11-16,Open
+3097,1435,Saxo Individual Singapore Account,2024-06-28,Open
+3098,1436,E*TRADE Brokerage,2022-11-10,Closed
+3099,1436,Saxo Individual Singapore Account,2024-11-10,Open
+3100,1437,Schwab One Brokerage,2024-06-19,Open
+3101,1437,Webull Cash Brokerage,2019-11-28,Open
+3102,1437,Vanguard Brokerage,2021-10-12,Open
+3103,1438,Schwab One Brokerage,2020-08-31,Closed
+3104,1438,Interactive Brokers Japanese Brokerage,2020-12-26,Open
+3105,1439,Robinhood Individual,2025-10-15,Open
+3106,1439,Saxo Individual Singapore Account,2022-07-31,Open
+3107,1440,Robinhood Individual,2022-06-30,Closed
+3108,1440,E*TRADE Brokerage,2021-03-24,Open
+3109,1440,Schwab One Brokerage,2024-05-08,Open
+3110,1441,Questrade Cash Account,2019-02-01,Closed
+3111,1441,Interactive Brokers Japanese Brokerage,2025-01-18,Open
+3112,1442,Robinhood Individual,2020-02-28,Closed
+3113,1442,The Fidelity Account,2018-08-16,Open
+3114,1443,Vanguard Brokerage,2024-03-09,Open
+3115,1443,E*TRADE Brokerage,2019-04-21,Open
+3116,1444,Robinhood Individual,2019-03-05,Closed
+3117,1444,Swissquote Trading Account,2022-01-05,Closed
+3118,1445,Interactive Brokers Japanese Brokerage,2018-06-13,Open
+3119,1445,Swissquote Trading Account,2019-01-10,Open
+3120,1445,Robinhood Individual,2023-02-12,Open
+3121,1446,E*TRADE Brokerage,2021-12-29,Open
+3122,1446,Schwab One Brokerage,2022-08-24,Closed
+3123,1446,Webull Cash Brokerage,2020-04-25,Open
+3124,1447,Vanguard Brokerage,2019-05-22,Closed
+3125,1447,Interactive Brokers Japanese Brokerage,2023-02-28,Open
+3126,1447,The Fidelity Account,2021-09-09,Open
+3127,1448,E*TRADE Brokerage,2024-01-04,Open
+3128,1448,The Fidelity Account,2018-09-17,Open
+3129,1449,Vanguard Brokerage,2021-07-20,Closed
+3130,1449,Interactive Brokers Japanese Brokerage,2022-12-03,Closed
+3131,1450,The Fidelity Account,2021-06-08,Open
+3132,1450,Robinhood Individual,2019-01-31,Open
+3133,1450,Schwab One Brokerage,2025-03-01,Open
+3134,1451,Questrade Cash Account,2022-06-04,Open
+3135,1451,E*TRADE Brokerage,2025-11-15,Closed
+3136,1452,Swissquote Trading Account,2018-11-22,Closed
+3137,1452,Interactive Brokers Japanese Brokerage,2020-08-29,Closed
+3138,1453,Vanguard Brokerage,2025-12-08,Open
+3139,1453,Webull Cash Brokerage,2019-04-28,Open
+3140,1453,Questrade Cash Account,2025-04-26,Open
+3141,1454,Schwab One Brokerage,2023-04-06,Open
+3142,1454,Robinhood Individual,2018-01-24,Closed
+3143,1454,The Fidelity Account,2023-11-04,Open
+3144,1455,Robinhood Individual,2025-03-20,Open
+3145,1455,Webull Cash Brokerage,2018-04-09,Open
+3146,1456,Robinhood Individual,2018-06-28,Closed
+3147,1456,Schwab One Brokerage,2018-02-21,Open
+3148,1456,Saxo Individual Singapore Account,2021-01-09,Open
+3149,1457,Vanguard Brokerage,2025-08-01,Open
+3150,1457,Saxo Individual Singapore Account,2025-12-27,Closed
+3151,1457,Webull Cash Brokerage,2022-11-27,Open
+3152,1458,The Fidelity Account,2024-05-26,Closed
+3153,1458,Interactive Brokers Japanese Brokerage,2021-10-05,Open
+3154,1458,Webull Cash Brokerage,2021-07-11,Open
+3155,1459,Schwab One Brokerage,2024-07-21,Open
+3156,1459,The Fidelity Account,2023-03-10,Closed
+3157,1460,E*TRADE Brokerage,2021-02-02,Open
+3158,1460,Schwab One Brokerage,2022-12-01,Closed
+3159,1461,Robinhood Individual,2024-06-25,Open
+3160,1461,E*TRADE Brokerage,2020-11-24,Closed
+3161,1461,Webull Cash Brokerage,2020-05-17,Closed
+3162,1462,Robinhood Individual,2025-01-09,Open
+3163,1462,E*TRADE Brokerage,2025-11-17,Closed
+3164,1463,Interactive Brokers Japanese Brokerage,2020-02-04,Open
+3165,1463,Vanguard Brokerage,2025-01-04,Open
+3166,1464,E*TRADE Brokerage,2019-02-21,Open
+3167,1464,Interactive Brokers Japanese Brokerage,2024-09-30,Closed
+3168,1465,Questrade Cash Account,2021-11-05,Closed
+3169,1465,Robinhood Individual,2018-01-09,Open
+3170,1466,E*TRADE Brokerage,2018-10-09,Closed
+3171,1466,Schwab One Brokerage,2018-11-22,Closed
+3172,1467,Robinhood Individual,2018-12-27,Open
+3173,1467,The Fidelity Account,2024-07-11,Open
+3174,1467,Webull Cash Brokerage,2019-01-09,Open
+3175,1468,Robinhood Individual,2019-09-23,Open
+3176,1468,The Fidelity Account,2024-09-18,Open
+3177,1469,Schwab One Brokerage,2024-11-06,Open
+3178,1469,Interactive Brokers Japanese Brokerage,2023-01-11,Closed
+3179,1469,Swissquote Trading Account,2022-01-01,Closed
+3180,1470,Webull Cash Brokerage,2023-06-02,Open
+3181,1470,Schwab One Brokerage,2022-07-02,Open
+3182,1471,Swissquote Trading Account,2025-11-09,Open
+3183,1471,The Fidelity Account,2022-01-27,Open
+3184,1471,Robinhood Individual,2021-07-13,Open
+3185,1472,Robinhood Individual,2018-05-10,Open
+3186,1472,E*TRADE Brokerage,2018-02-09,Open
+3187,1472,Schwab One Brokerage,2018-10-24,Closed
+3188,1473,The Fidelity Account,2024-01-20,Open
+3189,1473,Saxo Individual Singapore Account,2021-01-19,Closed
+3190,1473,Webull Cash Brokerage,2018-11-23,Open
+3191,1474,Webull Cash Brokerage,2022-12-09,Open
+3192,1474,Questrade Cash Account,2025-03-26,Closed
+3193,1474,The Fidelity Account,2018-11-26,Open
+3194,1475,E*TRADE Brokerage,2020-11-08,Closed
+3195,1475,Schwab One Brokerage,2018-07-04,Open
+3196,1476,The Fidelity Account,2018-10-27,Open
+3197,1476,Vanguard Brokerage,2022-04-19,Open
+3198,1477,Questrade Cash Account,2021-05-27,Open
+3199,1477,The Fidelity Account,2018-11-06,Open
+3200,1478,The Fidelity Account,2018-06-13,Open
+3201,1478,Swissquote Trading Account,2023-12-08,Open
+3202,1478,Schwab One Brokerage,2020-10-07,Closed
+3203,1479,Interactive Brokers Japanese Brokerage,2026-01-26,Open
+3204,1479,Swissquote Trading Account,2024-10-09,Closed
+3205,1480,Robinhood Individual,2020-05-25,Open
+3206,1480,The Fidelity Account,2026-01-29,Closed
+3207,1480,Questrade Cash Account,2025-12-11,Closed
+3208,1481,Vanguard Brokerage,2022-02-05,Closed
+3209,1481,Questrade Cash Account,2019-08-30,Open
+3210,1482,Schwab One Brokerage,2021-05-03,Open
+3211,1482,E*TRADE Brokerage,2018-12-14,Open
+3212,1482,The Fidelity Account,2019-08-21,Open
+3213,1483,The Fidelity Account,2018-02-23,Open
+3214,1483,Webull Cash Brokerage,2021-08-16,Open
+3215,1484,The Fidelity Account,2020-11-27,Open
+3216,1484,Vanguard Brokerage,2025-02-27,Closed
+3217,1485,Robinhood Individual,2023-08-20,Open
+3218,1485,Webull Cash Brokerage,2021-09-21,Open
+3219,1485,Schwab One Brokerage,2023-11-10,Closed
+3220,1486,Webull Cash Brokerage,2022-12-19,Open
+3221,1486,Schwab One Brokerage,2022-02-18,Open
+3222,1486,Robinhood Individual,2019-09-15,Closed
+3223,1487,Robinhood Individual,2022-09-04,Open
+3224,1487,Schwab One Brokerage,2020-10-12,Open
+3225,1487,The Fidelity Account,2026-04-30,Closed
+3226,1488,E*TRADE Brokerage,2024-09-10,Open
+3227,1488,Vanguard Brokerage,2024-06-21,Open
+3228,1489,E*TRADE Brokerage,2023-01-21,Open
+3229,1489,Questrade Cash Account,2019-04-22,Open
+3230,1490,Robinhood Individual,2024-09-29,Open
+3231,1490,Vanguard Brokerage,2025-10-26,Closed
+3232,1490,Saxo Individual Singapore Account,2025-09-05,Open
+3233,1491,E*TRADE Brokerage,2024-12-25,Closed
+3234,1491,Webull Cash Brokerage,2025-05-30,Open
+3235,1492,The Fidelity Account,2021-08-21,Open
+3236,1492,Vanguard Brokerage,2019-03-29,Closed
+3237,1493,Swissquote Trading Account,2020-12-10,Open
+3238,1493,Robinhood Individual,2018-07-14,Open
+3239,1493,Questrade Cash Account,2020-01-02,Open
+3240,1494,Webull Cash Brokerage,2019-02-25,Open
+3241,1494,Schwab One Brokerage,2025-02-10,Open
+3242,1495,Schwab One Brokerage,2018-02-27,Closed
+3243,1495,Saxo Individual Singapore Account,2018-06-25,Open
+3244,1495,The Fidelity Account,2020-03-20,Open
+3245,1496,Schwab One Brokerage,2021-06-15,Open
+3246,1496,Robinhood Individual,2018-11-01,Closed
+3247,1496,E*TRADE Brokerage,2026-01-14,Open
+3248,1497,The Fidelity Account,2023-03-22,Open
+3249,1497,Vanguard Brokerage,2018-03-17,Closed
+3250,1498,Swissquote Trading Account,2018-08-21,Open
+3251,1498,The Fidelity Account,2019-01-15,Closed
+3252,1498,Saxo Individual Singapore Account,2021-10-07,Closed
+3253,1499,Saxo Individual Singapore Account,2022-01-17,Closed
+3254,1499,Schwab One Brokerage,2021-11-22,Open
+3255,1499,Vanguard Brokerage,2025-08-12,Open
+3256,1500,Robinhood Individual,2018-04-24,Open
+3257,1500,Questrade Cash Account,2024-03-28,Closed
+3258,1500,Vanguard Brokerage,2020-03-10,Closed

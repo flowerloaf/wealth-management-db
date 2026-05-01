@@ -9,12 +9,12 @@ from faker import Faker
 # Configuration
 # -----------------------------
 RANDOM_SEED = 42
-NUM_ADVISORS = 20
-NUM_CLIENTS = 120
-MIN_ACCOUNTS_PER_CLIENT = 1
+NUM_ADVISORS = 25
+NUM_CLIENTS = 500
+MIN_ACCOUNTS_PER_CLIENT = 2
 MAX_ACCOUNTS_PER_CLIENT = 3
-NUM_GOALS = 220
-NUM_TRANSACTIONS = 1500
+NUM_GOALS = 1000
+NUM_TRANSACTIONS = 18000
 NUM_ASSESSMENTS_PER_CLIENT = 1
 
 # Account-type lookup table. This matches the decomposed schema:

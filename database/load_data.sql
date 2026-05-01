@@ -3,7 +3,7 @@
 -- ==========================================
 -- Update the file paths below to match your machine.
 -- Example root path on macOS:
--- /Users/yourname/Documents/wealth-management-db/data/
+-- /Users/stephenchu/Documents/wealth-management-db/data/
 --
 -- Recommended workflow:
 -- 1. Run schema.sql first.
@@ -34,47 +34,47 @@
 -- ------------------------------------------
 
 COPY advisors(advisor_id, name, email, phone, office_location, hire_date)
-FROM '/Users/yourname/Documents/wealth-management-db/data/advisors.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/advisors.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY clients(client_id, advisor_id, name, email, phone, address, dob)
-FROM '/Users/yourname/Documents/wealth-management-db/data/clients.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/clients.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY account_info(account_type, base_currency)
-FROM '/Users/yourname/Documents/wealth-management-db/data/account_info.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/account_info.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY accounts(account_id, client_id, account_type, opened_date, status)
-FROM '/Users/yourname/Documents/wealth-management-db/data/accounts.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/accounts.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY assets(symbol, asset_name)
-FROM '/Users/yourname/Documents/wealth-management-db/data/assets.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/assets.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY risk_profiles(profile_name, target_volatility)
-FROM '/Users/yourname/Documents/wealth-management-db/data/risk_profiles.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/risk_profiles.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY client_risk_assessments(assessment_id, client_id, profile_name, risk_score, assessment_date, method)
-FROM '/Users/yourname/Documents/wealth-management-db/data/client_risk_assessments.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/client_risk_assessments.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY financial_goals(goal_id, client_id, goal_type, target_amount, current_amount, target_date, priority)
-FROM '/Users/yourname/Documents/wealth-management-db/data/financial_goals.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/financial_goals.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY transactions(txn_id, account_id, symbol, txn_type, quantity, price_per_unit, fees, trade_date, settle_date)
-FROM '/Users/yourname/Documents/wealth-management-db/data/transactions.csv'
+FROM '/Users/stephenchu/Documents/wealth-management-db/data/transactions.csv'
 DELIMITER ','
 CSV HEADER;
 
